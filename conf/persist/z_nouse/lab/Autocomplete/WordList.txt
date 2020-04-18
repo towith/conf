@@ -1,0 +1,1 @@
+scrcpy -m 800 -T -s %device%

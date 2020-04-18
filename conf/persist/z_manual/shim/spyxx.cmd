@@ -1,0 +1,1 @@
+shim D:\Applications\z_disk\softpkg\_Spyxx\spyxx_amd64.exe

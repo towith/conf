@@ -1,0 +1,3 @@
+if (!([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator")) { Start-Process powershell.exe "-NoProfile -ExecutionPolicy Bypass -File `"$PSCommandPath`"" -Verb RunAs; exit }
+$t=(Get-Date).AddMinutes(5).toString('HH:mm')
+schtasks.exe /create /tn my\drink /tr "nircmdc.exe beep 300 1000" /st $t /sc ONCE /f

@@ -1,0 +1,16 @@
+call unlink.conf.bat
+call unlink.tc.bat
+call unlink.ahk.bat
+call unlink.maven.bat
+call unlink.keepass.bat
+call unlink.ditto.bat
+call unlink.vim.bat
+call unlink.yarn.bat
+call unlink.npm.bat
+call unlink.idea.bat
+call unlink.powershell.bat
+call unlink.gradle.bat
+call unlink.pip.bat
+call unlink.ditto_cmd.bat
+call unlink.fiddler.bat
+call unlink.pomodoro.bat
