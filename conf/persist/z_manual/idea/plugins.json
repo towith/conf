@@ -1,0 +1,333 @@
+{
+  "plugins": [
+    {
+      "pluginId": "IdeaVIM",
+      "pluginName": "IdeaVim",
+      "downloadUrl": "https://plugins.jetbrains.com/plugin/164",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "PlantUML integration",
+      "pluginName": "PlantUML integration",
+      "dependencyPluginIds": [
+        "com.intellij.modules.platform",
+        "com.intellij.platform.images"
+      ],
+      "optionalDependencyPluginIds": [
+        "com.intellij.platform.images"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "String Manipulation",
+      "pluginName": "String Manipulation",
+      "downloadUrl": "https://github.com/krasa/StringManipulation",
+      "dependencyPluginIds": [
+        "com.intellij.modules.platform"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.github.holgerbrandl.pasteimages/",
+      "pluginName": "Paste Images into Markdown",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "uk.co.ben-gibson.remote.repository.mapper",
+      "pluginName": "GitLink",
+      "downloadUrl": "https://github.com/ben-gibson/GitLink",
+      "dependencyPluginIds": [
+        "com.intellij.modules.vcs",
+        "com.intellij.modules.lang",
+        "com.intellij.modules.platform",
+        "Git4Idea"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "GrepConsole",
+      "pluginName": "Grep Console",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang",
+        "com.intellij.modules.java"
+      ],
+      "optionalDependencyPluginIds": [
+        "com.intellij.modules.java"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "GsonFormat",
+      "pluginName": "GsonFormat",
+      "dependencyPluginIds": [],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "Lombook Plugin",
+      "pluginName": "Lombok",
+      "downloadUrl": "https://github.com/mplushnikov/lombok-intellij-plugin",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang",
+        "com.intellij.modules.platform",
+        "com.intellij.modules.java"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.bruce.intellijpluin.stackoverflow",
+      "pluginName": "stackoverflow",
+      "dependencyPluginIds": [],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.intellij.ideolog",
+      "pluginName": "Ideolog",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.jetbrains.colorful.toolwindow.icons",
+      "pluginName": "ToolWindow Colorful Icons",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "org.jetbrains.action-tracker",
+      "pluginName": "Action Tracker",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.intellij.plugin.adernov.powershell",
+      "pluginName": "PowerShell",
+      "dependencyPluginIds": [
+        "com.intellij.modules.platform",
+        "com.intellij.modules.lang",
+        "org.intellij.intelliLang",
+        "org.jetbrains.plugins.terminal"
+      ],
+      "optionalDependencyPluginIds": [
+        "org.intellij.intelliLang",
+        "org.jetbrains.plugins.terminal"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "Pythonid",
+      "pluginName": "Python",
+      "downloadUrl": "https://confluence.jetbrains.com/display/PYH/",
+      "dependencyPluginIds": [
+        "com.intellij.modules.ultimate",
+        "com.intellij.modules.python-pro-capable",
+        "com.intellij.modules.duplicatesDetector",
+        "org.jetbrains.plugins.yaml",
+        "com.intellij.modules.idea",
+        "com.intellij.diagram",
+        "JavaScriptDebugger",
+        "org.jetbrains.plugins.rest",
+        "org.jetbrains.plugins.localization",
+        "com.intellij.modules.database",
+        "org.jetbrains.plugins.remote-run",
+        "com.intellij.copyright",
+        "gherkin",
+        "gherkin",
+        "org.jetbrains.plugins.wsl",
+        "org.intellij.intelliLang",
+        "Docker",
+        "com.intellij.diagram",
+        "org.jetbrains.plugins.terminal",
+        "tanvd.grazi"
+      ],
+      "optionalDependencyPluginIds": [
+        "com.intellij.modules.duplicatesDetector",
+        "org.jetbrains.plugins.yaml",
+        "com.intellij.modules.idea",
+        "com.intellij.diagram",
+        "JavaScriptDebugger",
+        "org.jetbrains.plugins.rest",
+        "org.jetbrains.plugins.localization",
+        "com.intellij.modules.database",
+        "org.jetbrains.plugins.remote-run",
+        "com.intellij.copyright",
+        "gherkin",
+        "gherkin",
+        "org.jetbrains.plugins.wsl",
+        "org.intellij.intelliLang",
+        "Docker",
+        "com.intellij.diagram",
+        "org.jetbrains.plugins.terminal",
+        "tanvd.grazi"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "org.jetbrains.kotlin",
+      "pluginName": "Kotlin",
+      "downloadUrl": "http://kotlinlang.org",
+      "dependencyPluginIds": [
+        "com.intellij.modules.platform",
+        "JUnit",
+        "com.intellij.gradle",
+        "org.jetbrains.plugins.gradle",
+        "org.intellij.groovy",
+        "org.jetbrains.idea.maven",
+        "TestNG-J",
+        "Coverage",
+        "com.intellij.java-i18n",
+        "org.jetbrains.java.decompiler",
+        "Git4Idea",
+        "org.jetbrains.debugger.streams",
+        "NodeJS",
+        "org.jetbrains.plugins.gradle",
+        "com.intellij.nativeDebug",
+        "JavaScriptDebugger",
+        "com.intellij.modules.idea",
+        "com.intellij.modules.java",
+        "JavaScriptDebugger",
+        "com.intellij.copyright",
+        "org.intellij.intelliLang"
+      ],
+      "optionalDependencyPluginIds": [
+        "JUnit",
+        "com.intellij.gradle",
+        "org.jetbrains.plugins.gradle",
+        "org.intellij.groovy",
+        "org.jetbrains.idea.maven",
+        "TestNG-J",
+        "Coverage",
+        "com.intellij.java-i18n",
+        "org.jetbrains.java.decompiler",
+        "Git4Idea",
+        "org.jetbrains.debugger.streams",
+        "NodeJS",
+        "org.jetbrains.plugins.gradle",
+        "com.intellij.nativeDebug",
+        "JavaScriptDebugger",
+        "JavaScriptDebugger",
+        "com.intellij.copyright",
+        "org.intellij.intelliLang"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "org.jetbrains.plugins.vue",
+      "pluginName": "Vue.js",
+      "downloadUrl": "https://github.com/JetBrains/intellij-plugins/tree/master/vuejs",
+      "dependencyPluginIds": [
+        "JavaScript",
+        "com.intellij.modules.platform",
+        "JavaScriptDebugger",
+        "com.intellij.copyright"
+      ],
+      "optionalDependencyPluginIds": [
+        "JavaScriptDebugger",
+        "com.intellij.copyright"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "JRebelPlugin",
+      "pluginName": "JRebel and XRebel for IntelliJ",
+      "downloadUrl": "https://www.jrebel.com//",
+      "dependencyPluginIds": [
+        "com.intellij.javaee",
+        "WebSphere",
+        "Weblogic",
+        "org.jetbrains.idea.maven",
+        "org.jetbrains.plugins.gradle",
+        "com.intellij.javaee.view",
+        "com.intellij.modules.java"
+      ],
+      "optionalDependencyPluginIds": [
+        "com.intellij.javaee",
+        "WebSphere",
+        "Weblogic",
+        "org.jetbrains.idea.maven",
+        "org.jetbrains.plugins.gradle",
+        "com.intellij.javaee.view"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.jetbrains.chronon",
+      "pluginName": "Chronon",
+      "dependencyPluginIds": [
+        "com.intellij.javaee",
+        "com.intellij.modules.ultimate"
+      ],
+      "optionalDependencyPluginIds": [
+        "com.intellij.javaee"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.jetbrains.lang.ejs",
+      "pluginName": "EJS",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang",
+        "JavaScript"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "org.asciidoctor.intellij.asciidoc",
+      "pluginName": "AsciiDoc",
+      "downloadUrl": "https://intellij-asciidoc-plugin.ahus1.de/",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang",
+        "com.intellij.modules.java",
+        "com.intellij.modules.json",
+        "tanvd.grazi"
+      ],
+      "optionalDependencyPluginIds": [
+        "com.intellij.modules.java",
+        "com.intellij.modules.json",
+        "tanvd.grazi"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    }
+  ]
+}

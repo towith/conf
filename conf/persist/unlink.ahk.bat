@@ -1,0 +1,1 @@
+rmdir %SCOOP%\persist\ahk

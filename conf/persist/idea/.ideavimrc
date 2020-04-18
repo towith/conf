@@ -1,0 +1,12 @@
+set clipboard+=ideaput
+set surround
+set commentary
+set multiple-cursors
+"set hlsearch
+nnoremap <space> :noh<return>
+set nu
+"set rnu
+set showmode
+set scrolloff=5
+set ideajoin
+"set idearefactormode=keep

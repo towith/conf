@@ -1,0 +1,1695 @@
+# 27.06.2021 ( 20:03 ) New DataBaseSQLLite: Handle @122992736
+# 27.06.2021 ( 20:03 ) New DataBaseSQLLite: Handle @125155424
+# 27.06.2021 ( 20:07 ) New DataBaseSQLLite: Handle @124172384
+# 27.06.2021 ( 20:11 ) New DataBaseSQLLite: Handle @125417568
+# 27.06.2021 ( 20:11 ) New DataBaseSQLLite: Handle @124041312
+# 27.06.2021 ( 20:12 ) New DataBaseSQLLite: Handle @125286496
+# 27.06.2021 ( 20:21 ) New DataBaseSQLLite: Handle @124893280
+# 27.06.2021 ( 21:18 ) New DataBaseSQLLite: Handle @122796128
+# 27.06.2021 ( 21:28 ) New DataBaseSQLLite: Handle @125024352
+# 27.06.2021 ( 21:37 ) New DataBaseSQLLite: Handle @125679712
+# 27.06.2021 ( 21:38 ) New DataBaseSQLLite: Handle @123385952
+# 27.06.2021 ( 22:38 ) SQLite_Bind: Binding value as: text
+# 27.06.2021 ( 22:38 ) SQLite_Bind: Binding value as: text
+# 27.06.2021 ( 22:38 ) SQLite_Bind: Binding value as: text
+# 27.06.2021 ( 22:38 ) SQLite_Bind: Binding value as: text
+# 27.06.2021 ( 22:39 ) New DataBaseSQLLite: Handle @123713632
+# 27.06.2021 ( 22:39 ) SQLite_Bind: Binding value as: text
+# 27.06.2021 ( 22:39 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 08:04 ) New DataBaseSQLLite: Handle @115849312
+# 28.06.2021 ( 08:22 ) New DataBaseSQLLite: Handle @123385952
+# 28.06.2021 ( 08:22 ) New DataBaseSQLLite: Handle @122861664
+# 28.06.2021 ( 08:23 ) New DataBaseSQLLite: Handle @124106848
+# 28.06.2021 ( 08:24 ) New DataBaseSQLLite: Handle @124041312
+# 28.06.2021 ( 08:24 ) New DataBaseSQLLite: Handle @123517024
+# 28.06.2021 ( 08:24 ) New DataBaseSQLLite: Handle @125941856
+# 28.06.2021 ( 08:26 ) New DataBaseSQLLite: Handle @122468448
+# 28.06.2021 ( 17:32 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 17:32 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 17:32 ) New DataBaseSQLLite: Handle @124565600
+# 28.06.2021 ( 17:33 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 17:33 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 17:33 ) New DataBaseSQLLite: Handle @125024352
+# 28.06.2021 ( 17:34 ) New DataBaseSQLLite: Handle @125483104
+# 28.06.2021 ( 17:34 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 17:34 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 17:34 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 17:34 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 17:34 ) New DataBaseSQLLite: Handle @125614176
+# 28.06.2021 ( 17:35 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 17:35 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 17:35 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 17:35 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 17:35 ) New DataBaseSQLLite: Handle @124106848
+# 28.06.2021 ( 17:35 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 17:35 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 17:35 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 17:35 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 17:36 ) New DataBaseSQLLite: Handle @124827744
+# 28.06.2021 ( 17:36 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 17:36 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 17:36 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 17:36 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 17:36 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 17:36 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 17:36 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 17:36 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 17:53 ) New DataBaseSQLLite: Handle @125220960
+# 28.06.2021 ( 18:57 ) New DataBaseSQLLite: Handle @123517024
+# 28.06.2021 ( 18:57 ) New DataBaseSQLLite: Handle @124368992
+# 28.06.2021 ( 18:57 ) New DataBaseSQLLite: Handle @123123808
+# 28.06.2021 ( 18:58 ) New DataBaseSQLLite: Handle @119060576
+# 28.06.2021 ( 19:10 ) New DataBaseSQLLite: Handle @124631136
+# 28.06.2021 ( 19:10 ) New DataBaseSQLLite: Handle @123517024
+# 28.06.2021 ( 19:11 ) New DataBaseSQLLite: Handle @124041312
+# 28.06.2021 ( 19:17 ) New DataBaseSQLLite: Handle @117815392
+# 28.06.2021 ( 19:17 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:17 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:17 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:17 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:17 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:17 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:17 ) New DataBaseSQLLite: Handle @62961760
+# 28.06.2021 ( 19:17 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:17 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:17 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:17 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:17 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:17 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:19 ) New DataBaseSQLLite: Handle @124631136
+# 28.06.2021 ( 19:19 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:19 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:19 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:19 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:19 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:19 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:26 ) New DataBaseSQLLite: Handle @124368992
+# 28.06.2021 ( 19:27 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:27 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:27 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:27 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:27 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 19:27 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:28 ) New DataBaseSQLLite: Handle @123058272
+# 28.06.2021 ( 19:28 ) New DataBaseSQLLite: Handle @126924896
+# 28.06.2021 ( 19:30 ) New DataBaseSQLLite: Handle @123058272
+# 28.06.2021 ( 19:31 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:31 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:31 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:31 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:31 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 19:31 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:31 ) New DataBaseSQLLite: Handle @125352032
+# 28.06.2021 ( 19:31 ) New DataBaseSQLLite: Handle @123582560
+# 28.06.2021 ( 19:32 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:32 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:32 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:32 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:32 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 19:32 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:33 ) New DataBaseSQLLite: Handle @123779168
+# 28.06.2021 ( 19:33 ) New DataBaseSQLLite: Handle @124368992
+# 28.06.2021 ( 19:33 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:33 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:33 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:33 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:33 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 19:33 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:34 ) New DataBaseSQLLite: Handle @124172384
+# 28.06.2021 ( 19:34 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:34 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:34 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:34 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:34 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 19:34 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:34 ) New DataBaseSQLLite: Handle @124041312
+# 28.06.2021 ( 19:34 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:34 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:34 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:34 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:34 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 19:34 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:34 ) New DataBaseSQLLite: Handle @123779168
+# 28.06.2021 ( 19:34 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:34 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:34 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:34 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:34 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 19:34 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:35 ) New DataBaseSQLLite: Handle @123451488
+# 28.06.2021 ( 19:35 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:35 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:35 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:35 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:35 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 19:35 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:35 ) New DataBaseSQLLite: Handle @125220960
+# 28.06.2021 ( 19:35 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:35 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:35 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:35 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:35 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 19:35 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:36 ) New DataBaseSQLLite: Handle @116963424
+# 28.06.2021 ( 19:36 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:36 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:36 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:36 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:36 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 19:36 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:37 ) New DataBaseSQLLite: Handle @125024352
+# 28.06.2021 ( 19:37 ) New DataBaseSQLLite: Handle @122992736
+# 28.06.2021 ( 19:37 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:37 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:37 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:37 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:37 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 19:37 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:37 ) New DataBaseSQLLite: Handle @125352032
+# 28.06.2021 ( 19:38 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:38 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:38 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:38 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:38 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 19:38 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:38 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:38 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:38 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:38 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:38 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 19:38 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:38 ) New DataBaseSQLLite: Handle @123910240
+# 28.06.2021 ( 19:38 ) New DataBaseSQLLite: Handle @123058272
+# 28.06.2021 ( 19:40 ) New DataBaseSQLLite: Handle @122599520
+# 28.06.2021 ( 19:40 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:40 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:40 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:40 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:40 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 19:40 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:41 ) New DataBaseSQLLite: Handle @123123808
+# 28.06.2021 ( 19:41 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:41 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:41 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:41 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:41 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 19:41 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:43 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:43 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:44 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:44 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:44 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 19:44 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:44 ) New DataBaseSQLLite: Handle @124827744
+# 28.06.2021 ( 19:44 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:44 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:44 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:44 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 19:44 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:44 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:45 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:45 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:45 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:45 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 19:45 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:45 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:47 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:47 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 19:47 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:47 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 19:47 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:47 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:48 ) New DataBaseSQLLite: Handle @123189344
+# 28.06.2021 ( 19:49 ) New DataBaseSQLLite: Handle @118274144
+# 28.06.2021 ( 19:50 ) New DataBaseSQLLite: Handle @123910240
+# 28.06.2021 ( 19:50 ) New DataBaseSQLLite: Handle @124237920
+# 28.06.2021 ( 19:53 ) New DataBaseSQLLite: Handle @124958816
+# 28.06.2021 ( 19:53 ) New DataBaseSQLLite: Handle @124893280
+# 28.06.2021 ( 19:54 ) New DataBaseSQLLite: Handle @124631136
+# 28.06.2021 ( 19:55 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:55 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:55 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:55 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 19:55 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:55 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 19:58 ) New DataBaseSQLLite: Handle @123844704
+# 28.06.2021 ( 20:00 ) New DataBaseSQLLite: Handle @124237920
+# 28.06.2021 ( 20:00 ) New DataBaseSQLLite: Handle @125941856
+# 28.06.2021 ( 20:01 ) New DataBaseSQLLite: Handle @125024352
+# 28.06.2021 ( 20:01 ) New DataBaseSQLLite: Handle @124565600
+# 28.06.2021 ( 20:02 ) New DataBaseSQLLite: Handle @116832352
+# 28.06.2021 ( 20:03 ) New DataBaseSQLLite: Handle @124106848
+# 28.06.2021 ( 20:04 ) New DataBaseSQLLite: Handle @123713632
+# 28.06.2021 ( 20:04 ) New DataBaseSQLLite: Handle @125352032
+# 28.06.2021 ( 20:06 ) New DataBaseSQLLite: Handle @126793824
+# 28.06.2021 ( 20:09 ) New DataBaseSQLLite: Handle @124500064
+# 28.06.2021 ( 20:10 ) New DataBaseSQLLite: Handle @125352032
+# 28.06.2021 ( 20:38 ) New DataBaseSQLLite: Handle @123254880
+# 28.06.2021 ( 20:39 ) New DataBaseSQLLite: Handle @125024352
+# 28.06.2021 ( 20:39 ) New DataBaseSQLLite: Handle @124696672
+# 28.06.2021 ( 20:40 ) New DataBaseSQLLite: Handle @122796128
+# 28.06.2021 ( 20:41 ) New DataBaseSQLLite: Handle @125220960
+# 28.06.2021 ( 20:46 ) New DataBaseSQLLite: Handle @123058272
+# 28.06.2021 ( 20:47 ) New DataBaseSQLLite: Handle @126269536
+# 28.06.2021 ( 20:47 ) New DataBaseSQLLite: Handle @118536288
+# 28.06.2021 ( 20:47 ) New DataBaseSQLLite: Handle @124827744
+# 28.06.2021 ( 20:50 ) New DataBaseSQLLite: Handle @117225568
+# 28.06.2021 ( 20:50 ) New DataBaseSQLLite: Handle @124762208
+# 28.06.2021 ( 20:51 ) New DataBaseSQLLite: Handle @123123808
+# 28.06.2021 ( 20:54 ) New DataBaseSQLLite: Handle @124500064
+# 28.06.2021 ( 20:54 ) New DataBaseSQLLite: Handle @123975776
+# 28.06.2021 ( 20:55 ) New DataBaseSQLLite: Handle @123254880
+# 28.06.2021 ( 20:55 ) New DataBaseSQLLite: Handle @118077536
+# 28.06.2021 ( 20:55 ) New DataBaseSQLLite: Handle @123910240
+# 28.06.2021 ( 20:55 ) New DataBaseSQLLite: Handle @124893280
+# 28.06.2021 ( 20:55 ) New DataBaseSQLLite: Handle @125876320
+# 28.06.2021 ( 20:57 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 20:57 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 20:57 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 20:57 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 20:57 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 20:57 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 20:57 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 20:57 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 20:57 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 20:57 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 20:57 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 20:57 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 20:58 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 20:58 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 20:58 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 20:58 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 20:58 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 20:58 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:08 ) New DataBaseSQLLite: Handle @124237920
+# 28.06.2021 ( 21:08 ) New DataBaseSQLLite: Handle @124237920
+# 28.06.2021 ( 21:09 ) New DataBaseSQLLite: Handle @123058272
+# 28.06.2021 ( 21:09 ) New DataBaseSQLLite: Handle @124762208
+# 28.06.2021 ( 21:09 ) New DataBaseSQLLite: Handle @123517024
+# 28.06.2021 ( 21:10 ) New DataBaseSQLLite: Handle @124434528
+# 28.06.2021 ( 21:10 ) New DataBaseSQLLite: Handle @123451488
+# 28.06.2021 ( 21:10 ) New DataBaseSQLLite: Handle @124368992
+# 28.06.2021 ( 21:20 ) New DataBaseSQLLite: Handle @122796128
+# 28.06.2021 ( 21:20 ) New DataBaseSQLLite: Handle @124500064
+# 28.06.2021 ( 21:22 ) New DataBaseSQLLite: Handle @125024352
+# 28.06.2021 ( 21:22 ) New DataBaseSQLLite: Handle @123058272
+# 28.06.2021 ( 21:22 ) New DataBaseSQLLite: Handle @123844704
+# 28.06.2021 ( 21:24 ) New DataBaseSQLLite: Handle @124237920
+# 28.06.2021 ( 21:24 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:24 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:24 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:24 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:24 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 21:24 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:24 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:25 ) New DataBaseSQLLite: Handle @123844704
+# 28.06.2021 ( 21:29 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:29 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:29 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:29 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:29 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 21:29 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:29 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:30 ) New DataBaseSQLLite: Handle @118274144
+# 28.06.2021 ( 21:31 ) New DataBaseSQLLite: Handle @126007392
+# 28.06.2021 ( 21:31 ) New DataBaseSQLLite: Handle @124368992
+# 28.06.2021 ( 21:35 ) New DataBaseSQLLite: Handle @124303456
+# 28.06.2021 ( 21:36 ) New DataBaseSQLLite: Handle @123189344
+# 28.06.2021 ( 21:36 ) New DataBaseSQLLite: Handle @125024352
+# 28.06.2021 ( 21:37 ) New DataBaseSQLLite: Handle @125089888
+# 28.06.2021 ( 21:37 ) New DataBaseSQLLite: Handle @123517024
+# 28.06.2021 ( 21:37 ) New DataBaseSQLLite: Handle @124958816
+# 28.06.2021 ( 21:39 ) New DataBaseSQLLite: Handle @123910240
+# 28.06.2021 ( 21:40 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:40 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:40 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:40 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:40 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 21:40 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:40 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:41 ) New DataBaseSQLLite: Handle @124237920
+# 28.06.2021 ( 21:43 ) New DataBaseSQLLite: Handle @124500064
+# 28.06.2021 ( 21:46 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:46 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:46 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:46 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:46 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 21:46 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:46 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:47 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:47 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:47 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:47 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:47 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 21:47 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:47 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:48 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:48 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:48 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:48 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:48 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 21:48 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:48 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:48 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:48 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:48 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:48 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:48 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 21:48 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:48 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:49 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:49 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:49 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:49 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:49 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 21:49 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:49 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:50 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:50 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:50 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:50 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:50 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 21:50 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:50 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:51 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:51 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:51 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:51 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:51 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 21:51 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:51 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:51 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:51 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:51 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:51 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:51 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 21:51 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:51 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:52 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:52 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:52 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:52 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:52 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 21:52 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:52 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:53 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:53 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:53 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:53 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:53 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 21:53 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:53 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:53 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:53 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:53 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:53 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:53 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 21:53 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:53 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:54 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:54 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:54 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:54 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:54 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 21:54 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:54 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:57 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:57 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:57 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:57 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:57 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 21:57 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:57 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 21:59 ) New DataBaseSQLLite: Handle @123779168
+# 28.06.2021 ( 21:59 ) New DataBaseSQLLite: Handle @124827744
+# 28.06.2021 ( 21:59 ) New DataBaseSQLLite: Handle @123910240
+# 28.06.2021 ( 22:00 ) New DataBaseSQLLite: Handle @124893280
+# 28.06.2021 ( 22:00 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:00 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:00 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:00 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:00 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 22:00 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:00 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:01 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:01 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:01 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:01 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:01 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 22:01 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:01 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:03 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:03 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:03 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:03 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:03 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 22:03 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:03 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:04 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:04 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:04 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:04 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:04 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 22:04 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:04 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:06 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:06 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:06 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:06 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:06 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 22:06 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:06 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:06 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:06 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:06 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:06 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:06 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 22:06 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:06 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:07 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:07 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:07 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:07 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:07 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 22:07 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:07 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:08 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:08 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:08 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:08 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:08 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 22:08 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:08 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:08 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:08 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:08 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:08 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:08 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 22:08 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:08 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:09 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:09 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:09 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:09 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:09 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 22:09 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:09 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:11 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:11 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:11 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:11 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:11 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 22:11 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:11 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:13 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:13 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:13 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:13 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:13 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 22:13 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:13 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:14 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:14 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:14 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:14 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:14 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 22:14 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:14 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:52 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:52 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:52 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:52 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:52 ) SQLite_Bind: Binding value as: int
+# 28.06.2021 ( 22:52 ) SQLite_Bind: Binding value as: text
+# 28.06.2021 ( 22:52 ) SQLite_Bind: Binding value as: text
+# 29.06.2021 ( 00:33 ) New DataBaseSQLLite: Handle @128039008
+# 29.06.2021 ( 00:35 ) New DataBaseSQLLite: Handle @127055968
+# 29.06.2021 ( 00:35 ) New DataBaseSQLLite: Handle @128301152
+# 29.06.2021 ( 00:35 ) New DataBaseSQLLite: Handle @123451488
+# 29.06.2021 ( 08:12 ) New DataBaseSQLLite: Handle @120567904
+# 29.06.2021 ( 08:53 ) New DataBaseSQLLite: Handle @128104544
+# 29.06.2021 ( 09:17 ) New DataBaseSQLLite: Handle @127711328
+# 30.06.2021 ( 08:11 ) New DataBaseSQLLite: Handle @119650400
+# 30.06.2021 ( 08:50 ) New DataBaseSQLLite: Handle @129022048
+# 01.07.2021 ( 09:08 ) New DataBaseSQLLite: Handle @119650400
+# 01.07.2021 ( 09:14 ) New DataBaseSQLLite: Handle @128170080
+# 01.07.2021 ( 09:14 ) New DataBaseSQLLite: Handle @129218656
+# 01.07.2021 ( 13:15 ) New DataBaseSQLLite: Handle @128366688
+# 01.07.2021 ( 13:46 ) New DataBaseSQLLite: Handle @128628832
+# 01.07.2021 ( 15:35 ) New DataBaseSQLLite: Handle @128628832
+# 01.07.2021 ( 20:30 ) New DataBaseSQLLite: Handle @129415264
+# 02.07.2021 ( 09:09 ) New DataBaseSQLLite: Handle @120698976
+# 03.07.2021 ( 12:47 ) New DataBaseSQLLite: Handle @128170080
+# 03.07.2021 ( 12:55 ) New DataBaseSQLLite: Handle @121092192
+# 03.07.2021 ( 16:40 ) New DataBaseSQLLite: Handle @128039008
+# 03.07.2021 ( 16:41 ) New DataBaseSQLLite: Handle @126924896
+# 03.07.2021 ( 16:41 ) SQLite_Bind: Binding value as: text
+# 03.07.2021 ( 16:41 ) SQLite_Bind: Binding value as: text
+# 03.07.2021 ( 16:41 ) SQLite_Bind: Binding value as: text
+# 03.07.2021 ( 16:41 ) SQLite_Bind: Binding value as: text
+# 03.07.2021 ( 16:41 ) SQLite_Bind: Binding value as: int
+# 03.07.2021 ( 16:41 ) SQLite_Bind: Binding value as: text
+# 03.07.2021 ( 16:41 ) SQLite_Bind: Binding value as: text
+# 03.07.2021 ( 17:25 ) New DataBaseSQLLite: Handle @122402912
+# 04.07.2021 ( 09:33 ) New DataBaseSQLLite: Handle @120567904
+# 04.07.2021 ( 09:34 ) New DataBaseSQLLite: Handle @121419872
+# 04.07.2021 ( 10:00 ) New DataBaseSQLLite: Handle @121944160
+# 04.07.2021 ( 10:09 ) New DataBaseSQLLite: Handle @122271840
+# 04.07.2021 ( 13:51 ) New DataBaseSQLLite: Handle @129153120
+# 04.07.2021 ( 14:10 ) New DataBaseSQLLite: Handle @62240864
+# 04.07.2021 ( 19:36 ) New DataBaseSQLLite: Handle @127645792
+# 05.07.2021 ( 09:06 ) New DataBaseSQLLite: Handle @119257184
+# 05.07.2021 ( 15:50 ) New DataBaseSQLLite: Handle @128694368
+# 05.07.2021 ( 21:23 ) New DataBaseSQLLite: Handle @128039008
+# 06.07.2021 ( 09:00 ) New DataBaseSQLLite: Handle @121288800
+# 06.07.2021 ( 20:00 ) New DataBaseSQLLite: Handle @129874016
+# 07.07.2021 ( 08:59 ) New DataBaseSQLLite: Handle @125220960
+# 07.07.2021 ( 09:14 ) New DataBaseSQLLite: Handle @129349728
+# 07.07.2021 ( 12:54 ) New DataBaseSQLLite: Handle @129742944
+# 07.07.2021 ( 15:27 ) New DataBaseSQLLite: Handle @129546336
+# 07.07.2021 ( 15:42 ) New DataBaseSQLLite: Handle @128432224
+# 07.07.2021 ( 15:58 ) New DataBaseSQLLite: Handle @123713632
+# 07.07.2021 ( 15:59 ) New DataBaseSQLLite: Handle @129415264
+# 07.07.2021 ( 15:59 ) New DataBaseSQLLite: Handle @123451488
+# 07.07.2021 ( 16:19 ) New DataBaseSQLLite: Handle @128235616
+# 07.07.2021 ( 16:19 ) New DataBaseSQLLite: Handle @129284192
+# 07.07.2021 ( 16:19 ) New DataBaseSQLLite: Handle @129742944
+# 07.07.2021 ( 16:20 ) New DataBaseSQLLite: Handle @130791520
+# 07.07.2021 ( 16:20 ) New DataBaseSQLLite: Handle @129022048
+# 07.07.2021 ( 16:22 ) New DataBaseSQLLite: Handle @128890976
+# 07.07.2021 ( 18:08 ) New DataBaseSQLLite: Handle @129284192
+# 07.07.2021 ( 19:26 ) New DataBaseSQLLite: Handle @129808480
+# 07.07.2021 ( 20:46 ) New DataBaseSQLLite: Handle @128759904
+# 07.07.2021 ( 20:47 ) New DataBaseSQLLite: Handle @127907936
+# 07.07.2021 ( 20:47 ) New DataBaseSQLLite: Handle @129349728
+# 07.07.2021 ( 20:48 ) New DataBaseSQLLite: Handle @128563296
+# 07.07.2021 ( 20:48 ) New DataBaseSQLLite: Handle @128235616
+# 08.07.2021 ( 09:00 ) New DataBaseSQLLite: Handle @130070624
+# 08.07.2021 ( 09:04 ) New DataBaseSQLLite: Handle @129349728
+# 08.07.2021 ( 16:20 ) New DataBaseSQLLite: Handle @127580256
+# 08.07.2021 ( 19:36 ) New DataBaseSQLLite: Handle @129480800
+# 08.07.2021 ( 19:49 ) New DataBaseSQLLite: Handle @128039008
+# 08.07.2021 ( 19:49 ) New DataBaseSQLLite: Handle @130725984
+# 08.07.2021 ( 19:49 ) New DataBaseSQLLite: Handle @128628832
+# 08.07.2021 ( 19:49 ) New DataBaseSQLLite: Handle @129546336
+# 08.07.2021 ( 19:50 ) New DataBaseSQLLite: Handle @129415264
+# 08.07.2021 ( 19:51 ) New DataBaseSQLLite: Handle @129022048
+# 08.07.2021 ( 19:52 ) New DataBaseSQLLite: Handle @127711328
+# 08.07.2021 ( 19:52 ) New DataBaseSQLLite: Handle @126924896
+# 08.07.2021 ( 19:52 ) New DataBaseSQLLite: Handle @129415264
+# 08.07.2021 ( 19:52 ) New DataBaseSQLLite: Handle @130398304
+# 08.07.2021 ( 19:52 ) New DataBaseSQLLite: Handle @66369632
+# 08.07.2021 ( 19:52 ) New DataBaseSQLLite: Handle @128694368
+# 08.07.2021 ( 19:52 ) New DataBaseSQLLite: Handle @128694368
+# 08.07.2021 ( 19:55 ) New DataBaseSQLLite: Handle @130267232
+# 08.07.2021 ( 19:55 ) New DataBaseSQLLite: Handle @128366688
+# 08.07.2021 ( 19:56 ) New DataBaseSQLLite: Handle @127580256
+# 08.07.2021 ( 19:58 ) New DataBaseSQLLite: Handle @127645792
+# 08.07.2021 ( 19:59 ) New DataBaseSQLLite: Handle @128432224
+# 08.07.2021 ( 19:59 ) New DataBaseSQLLite: Handle @130594912
+# 08.07.2021 ( 20:00 ) New DataBaseSQLLite: Handle @130332768
+# 08.07.2021 ( 20:00 ) New DataBaseSQLLite: Handle @129153120
+# 08.07.2021 ( 20:01 ) New DataBaseSQLLite: Handle @128104544
+# 08.07.2021 ( 20:02 ) New DataBaseSQLLite: Handle @133216352
+# 08.07.2021 ( 20:02 ) New DataBaseSQLLite: Handle @130463840
+# 08.07.2021 ( 20:06 ) New DataBaseSQLLite: Handle @127580256
+# 08.07.2021 ( 20:09 ) New DataBaseSQLLite: Handle @129808480
+# 08.07.2021 ( 20:09 ) New DataBaseSQLLite: Handle @129611872
+# 08.07.2021 ( 20:09 ) New DataBaseSQLLite: Handle @130070624
+# 08.07.2021 ( 20:10 ) New DataBaseSQLLite: Handle @128956512
+# 08.07.2021 ( 20:11 ) New DataBaseSQLLite: Handle @128039008
+# 08.07.2021 ( 20:20 ) New DataBaseSQLLite: Handle @129022048
+# 08.07.2021 ( 20:20 ) New DataBaseSQLLite: Handle @128890976
+# 08.07.2021 ( 20:21 ) New DataBaseSQLLite: Handle @127514720
+# 08.07.2021 ( 20:21 ) New DataBaseSQLLite: Handle @127580256
+# 08.07.2021 ( 22:50 ) New DataBaseSQLLite: Handle @129546336
+# 08.07.2021 ( 23:27 ) New DataBaseSQLLite: Handle @127449184
+# 09.07.2021 ( 09:07 ) New DataBaseSQLLite: Handle @121616480
+# 09.07.2021 ( 09:12 ) New DataBaseSQLLite: Handle @121616480
+# 09.07.2021 ( 09:14 ) New DataBaseSQLLite: Handle @128104544
+# 09.07.2021 ( 09:15 ) New DataBaseSQLLite: Handle @130070624
+# 09.07.2021 ( 12:28 ) New DataBaseSQLLite: Handle @127580256
+# 09.07.2021 ( 12:28 ) New DataBaseSQLLite: Handle @128890976
+# 09.07.2021 ( 12:29 ) New DataBaseSQLLite: Handle @133019744
+# 09.07.2021 ( 12:29 ) New DataBaseSQLLite: Handle @129218656
+# 09.07.2021 ( 16:40 ) New DataBaseSQLLite: Handle @128628832
+# 09.07.2021 ( 16:40 ) New DataBaseSQLLite: Handle @131119200
+# 09.07.2021 ( 19:08 ) New DataBaseSQLLite: Handle @124434528
+# 09.07.2021 ( 21:09 ) New DataBaseSQLLite: Handle @129022048
+# 10.07.2021 ( 06:37 ) New DataBaseSQLLite: Handle @120305760
+# 10.07.2021 ( 08:51 ) New DataBaseSQLLite: Handle @127514720
+# 10.07.2021 ( 20:17 ) New DataBaseSQLLite: Handle @128890976
+# 10.07.2021 ( 23:48 ) New DataBaseSQLLite: Handle @128366688
+# 11.07.2021 ( 09:40 ) New DataBaseSQLLite: Handle @62634080
+# 11.07.2021 ( 10:17 ) New DataBaseSQLLite: Handle @129022048
+# 11.07.2021 ( 17:59 ) New DataBaseSQLLite: Handle @131315808
+# 11.07.2021 ( 18:16 ) New DataBaseSQLLite: Handle @129480800
+# 11.07.2021 ( 18:16 ) New DataBaseSQLLite: Handle @129480800
+# 11.07.2021 ( 18:17 ) New DataBaseSQLLite: Handle @129742944
+# 11.07.2021 ( 18:17 ) New DataBaseSQLLite: Handle @129480800
+# 11.07.2021 ( 21:51 ) New DataBaseSQLLite: Handle @122796128
+# 11.07.2021 ( 22:40 ) New DataBaseSQLLite: Handle @128497760
+# 11.07.2021 ( 23:10 ) New DataBaseSQLLite: Handle @127907936
+# 12.07.2021 ( 09:18 ) New DataBaseSQLLite: Handle @125745248
+# 12.07.2021 ( 10:04 ) New DataBaseSQLLite: Handle @128890976
+# 12.07.2021 ( 10:04 ) New DataBaseSQLLite: Handle @128170080
+# 12.07.2021 ( 12:54 ) New DataBaseSQLLite: Handle @128563296
+# 12.07.2021 ( 13:46 ) New DataBaseSQLLite: Handle @128563296
+# 12.07.2021 ( 15:39 ) New DataBaseSQLLite: Handle @130070624
+# 12.07.2021 ( 15:40 ) New DataBaseSQLLite: Handle @129218656
+# 12.07.2021 ( 15:40 ) New DataBaseSQLLite: Handle @129022048
+# 12.07.2021 ( 15:40 ) New DataBaseSQLLite: Handle @127842400
+# 12.07.2021 ( 15:41 ) New DataBaseSQLLite: Handle @129939552
+# 12.07.2021 ( 15:41 ) New DataBaseSQLLite: Handle @122796128
+# 12.07.2021 ( 15:42 ) New DataBaseSQLLite: Handle @129480800
+# 12.07.2021 ( 15:43 ) New DataBaseSQLLite: Handle @129874016
+# 12.07.2021 ( 15:45 ) New DataBaseSQLLite: Handle @129153120
+# 12.07.2021 ( 15:45 ) New DataBaseSQLLite: Handle @129087584
+# 12.07.2021 ( 15:46 ) New DataBaseSQLLite: Handle @127645792
+# 12.07.2021 ( 15:46 ) New DataBaseSQLLite: Handle @129480800
+# 12.07.2021 ( 15:49 ) New DataBaseSQLLite: Handle @127907936
+# 12.07.2021 ( 15:49 ) New DataBaseSQLLite: Handle @133412960
+# 12.07.2021 ( 17:14 ) New DataBaseSQLLite: Handle @125417568
+# 12.07.2021 ( 19:14 ) New DataBaseSQLLite: Handle @128825440
+# 12.07.2021 ( 20:07 ) New DataBaseSQLLite: Handle @130398304
+# 13.07.2021 ( 09:29 ) New DataBaseSQLLite: Handle @122206304
+# 13.07.2021 ( 12:28 ) New DataBaseSQLLite: Handle @130988128
+# 13.07.2021 ( 15:32 ) New DataBaseSQLLite: Handle @130594912
+# 13.07.2021 ( 19:06 ) New DataBaseSQLLite: Handle @126531680
+# 13.07.2021 ( 20:36 ) New DataBaseSQLLite: Handle @128759904
+# 14.07.2021 ( 09:13 ) New DataBaseSQLLite: Handle @66173024
+# 14.07.2021 ( 13:03 ) New DataBaseSQLLite: Handle @131971168
+# 14.07.2021 ( 15:15 ) New DataBaseSQLLite: Handle @129284192
+# 14.07.2021 ( 19:07 ) New DataBaseSQLLite: Handle @128563296
+# 15.07.2021 ( 09:13 ) New DataBaseSQLLite: Handle @122533984
+# 15.07.2021 ( 09:15 ) New DataBaseSQLLite: Handle @128694368
+# 15.07.2021 ( 12:02 ) New DataBaseSQLLite: Handle @122402912
+# 15.07.2021 ( 12:46 ) New DataBaseSQLLite: Handle @128759904
+# 15.07.2021 ( 17:19 ) New DataBaseSQLLite: Handle @129022048
+# 15.07.2021 ( 17:20 ) New DataBaseSQLLite: Handle @128366688
+# 15.07.2021 ( 17:21 ) New DataBaseSQLLite: Handle @129284192
+# 15.07.2021 ( 17:23 ) New DataBaseSQLLite: Handle @128956512
+# 15.07.2021 ( 17:23 ) New DataBaseSQLLite: Handle @128039008
+# 15.07.2021 ( 17:26 ) New DataBaseSQLLite: Handle @127711328
+# 15.07.2021 ( 17:27 ) New DataBaseSQLLite: Handle @121944160
+# 15.07.2021 ( 19:05 ) New DataBaseSQLLite: Handle @123844704
+# 16.07.2021 ( 09:15 ) New DataBaseSQLLite: Handle @63354976
+# 16.07.2021 ( 12:17 ) New DataBaseSQLLite: Handle @129677408
+# 16.07.2021 ( 14:37 ) New DataBaseSQLLite: Handle @129611872
+# 16.07.2021 ( 14:43 ) New DataBaseSQLLite: Handle @129087584
+# 16.07.2021 ( 15:51 ) New DataBaseSQLLite: Handle @128432224
+# 16.07.2021 ( 15:53 ) New DataBaseSQLLite: Handle @121747552
+# 16.07.2021 ( 16:14 ) New DataBaseSQLLite: Handle @129939552
+# 16.07.2021 ( 16:22 ) New DataBaseSQLLite: Handle @126924896
+# 16.07.2021 ( 16:23 ) New DataBaseSQLLite: Handle @128104544
+# 16.07.2021 ( 16:23 ) New DataBaseSQLLite: Handle @128366688
+# 16.07.2021 ( 16:24 ) New DataBaseSQLLite: Handle @127907936
+# 16.07.2021 ( 16:26 ) New DataBaseSQLLite: Handle @128563296
+# 16.07.2021 ( 16:27 ) New DataBaseSQLLite: Handle @131840096
+# 16.07.2021 ( 16:27 ) New DataBaseSQLLite: Handle @129415264
+# 16.07.2021 ( 16:27 ) New DataBaseSQLLite: Handle @127776864
+# 16.07.2021 ( 16:40 ) New DataBaseSQLLite: Handle @128366688
+# 16.07.2021 ( 16:41 ) New DataBaseSQLLite: Handle @130332768
+# 16.07.2021 ( 16:57 ) New DataBaseSQLLite: Handle @121878624
+# 16.07.2021 ( 17:43 ) New DataBaseSQLLite: Handle @122665056
+# 16.07.2021 ( 17:44 ) New DataBaseSQLLite: Handle @128759904
+# 16.07.2021 ( 17:44 ) New DataBaseSQLLite: Handle @128890976
+# 16.07.2021 ( 17:44 ) New DataBaseSQLLite: Handle @131119200
+# 16.07.2021 ( 17:45 ) New DataBaseSQLLite: Handle @128628832
+# 16.07.2021 ( 17:45 ) New DataBaseSQLLite: Handle @129218656
+# 16.07.2021 ( 18:13 ) New DataBaseSQLLite: Handle @119715936
+# 16.07.2021 ( 19:08 ) New DataBaseSQLLite: Handle @130005088
+# 16.07.2021 ( 19:08 ) New DataBaseSQLLite: Handle @130201696
+# 16.07.2021 ( 19:36 ) New DataBaseSQLLite: Handle @127055968
+# 16.07.2021 ( 19:36 ) New DataBaseSQLLite: Handle @129022048
+# 16.07.2021 ( 19:37 ) New DataBaseSQLLite: Handle @132364384
+# 16.07.2021 ( 19:38 ) New DataBaseSQLLite: Handle @128366688
+# 16.07.2021 ( 19:39 ) New DataBaseSQLLite: Handle @129284192
+# 16.07.2021 ( 19:39 ) New DataBaseSQLLite: Handle @130791520
+# 16.07.2021 ( 19:40 ) New DataBaseSQLLite: Handle @127907936
+# 16.07.2021 ( 19:40 ) New DataBaseSQLLite: Handle @129349728
+# 16.07.2021 ( 19:41 ) New DataBaseSQLLite: Handle @130594912
+# 16.07.2021 ( 19:41 ) New DataBaseSQLLite: Handle @129349728
+# 16.07.2021 ( 19:41 ) New DataBaseSQLLite: Handle @128432224
+# 16.07.2021 ( 19:47 ) New DataBaseSQLLite: Handle @128825440
+# 16.07.2021 ( 19:49 ) New DataBaseSQLLite: Handle @123320416
+# 16.07.2021 ( 19:51 ) New DataBaseSQLLite: Handle @129284192
+# 16.07.2021 ( 19:52 ) New DataBaseSQLLite: Handle @127973472
+# 16.07.2021 ( 19:53 ) New DataBaseSQLLite: Handle @129611872
+# 16.07.2021 ( 19:55 ) New DataBaseSQLLite: Handle @130594912
+# 16.07.2021 ( 19:55 ) New DataBaseSQLLite: Handle @129415264
+# 16.07.2021 ( 19:56 ) New DataBaseSQLLite: Handle @132626528
+# 16.07.2021 ( 19:56 ) New DataBaseSQLLite: Handle @126728288
+# 16.07.2021 ( 19:57 ) New DataBaseSQLLite: Handle @123320416
+# 16.07.2021 ( 20:00 ) New DataBaseSQLLite: Handle @128759904
+# 16.07.2021 ( 20:01 ) New DataBaseSQLLite: Handle @129415264
+# 16.07.2021 ( 20:22 ) New DataBaseSQLLite: Handle @130660448
+# 16.07.2021 ( 20:23 ) New DataBaseSQLLite: Handle @128890976
+# 16.07.2021 ( 20:23 ) New DataBaseSQLLite: Handle @130660448
+# 16.07.2021 ( 20:23 ) New DataBaseSQLLite: Handle @129742944
+# 16.07.2021 ( 20:23 ) New DataBaseSQLLite: Handle @129087584
+# 16.07.2021 ( 20:24 ) New DataBaseSQLLite: Handle @128104544
+# 16.07.2021 ( 20:24 ) New DataBaseSQLLite: Handle @128825440
+# 16.07.2021 ( 20:24 ) New DataBaseSQLLite: Handle @128235616
+# 16.07.2021 ( 20:24 ) New DataBaseSQLLite: Handle @127449184
+# 16.07.2021 ( 20:25 ) New DataBaseSQLLite: Handle @128628832
+# 16.07.2021 ( 20:30 ) New DataBaseSQLLite: Handle @130791520
+# 16.07.2021 ( 20:34 ) New DataBaseSQLLite: Handle @131577952
+# 16.07.2021 ( 22:04 ) New DataBaseSQLLite: Handle @130857056
+# 16.07.2021 ( 22:17 ) New DataBaseSQLLite: Handle @129284192
+# 16.07.2021 ( 22:17 ) New DataBaseSQLLite: Handle @128956512
+# 16.07.2021 ( 22:18 ) New DataBaseSQLLite: Handle @128235616
+# 16.07.2021 ( 22:19 ) New DataBaseSQLLite: Handle @129677408
+# 17.07.2021 ( 09:15 ) New DataBaseSQLLite: Handle @121485408
+# 17.07.2021 ( 18:05 ) New DataBaseSQLLite: Handle @127318112
+# 18.07.2021 ( 09:07 ) New DataBaseSQLLite: Handle @123517024
+# 18.07.2021 ( 10:21 ) New DataBaseSQLLite: Handle @128694368
+# 18.07.2021 ( 10:32 ) New DataBaseSQLLite: Handle @128170080
+# 18.07.2021 ( 13:13 ) New DataBaseSQLLite: Handle @130398304
+# 18.07.2021 ( 14:36 ) New DataBaseSQLLite: Handle @127776864
+# 18.07.2021 ( 14:36 ) New DataBaseSQLLite: Handle @128563296
+# 18.07.2021 ( 14:39 ) New DataBaseSQLLite: Handle @124500064
+# 18.07.2021 ( 15:13 ) New DataBaseSQLLite: Handle @122665056
+# 18.07.2021 ( 15:20 ) New DataBaseSQLLite: Handle @128432224
+# 18.07.2021 ( 15:20 ) New DataBaseSQLLite: Handle @122402912
+# 18.07.2021 ( 15:21 ) New DataBaseSQLLite: Handle @129677408
+# 18.07.2021 ( 15:22 ) New DataBaseSQLLite: Handle @130136160
+# 18.07.2021 ( 15:22 ) New DataBaseSQLLite: Handle @123713632
+# 18.07.2021 ( 15:23 ) New DataBaseSQLLite: Handle @123254880
+# 18.07.2021 ( 15:23 ) New DataBaseSQLLite: Handle @127973472
+# 18.07.2021 ( 15:24 ) New DataBaseSQLLite: Handle @121682016
+# 18.07.2021 ( 15:24 ) New DataBaseSQLLite: Handle @129611872
+# 18.07.2021 ( 15:25 ) New DataBaseSQLLite: Handle @123123808
+# 18.07.2021 ( 15:28 ) New DataBaseSQLLite: Handle @123254880
+# 18.07.2021 ( 15:29 ) New DataBaseSQLLite: Handle @130332768
+# 18.07.2021 ( 15:30 ) New DataBaseSQLLite: Handle @121092192
+# 18.07.2021 ( 15:30 ) New DataBaseSQLLite: Handle @122730592
+# 18.07.2021 ( 15:31 ) New DataBaseSQLLite: Handle @128301152
+# 18.07.2021 ( 15:31 ) New DataBaseSQLLite: Handle @128170080
+# 18.07.2021 ( 15:32 ) New DataBaseSQLLite: Handle @127907936
+# 18.07.2021 ( 15:32 ) New DataBaseSQLLite: Handle @128825440
+# 18.07.2021 ( 15:33 ) New DataBaseSQLLite: Handle @123123808
+# 18.07.2021 ( 15:33 ) New DataBaseSQLLite: Handle @122337376
+# 18.07.2021 ( 15:34 ) New DataBaseSQLLite: Handle @128497760
+# 18.07.2021 ( 15:34 ) New DataBaseSQLLite: Handle @124041312
+# 18.07.2021 ( 15:35 ) New DataBaseSQLLite: Handle @127121504
+# 18.07.2021 ( 15:36 ) New DataBaseSQLLite: Handle @122075232
+# 18.07.2021 ( 15:37 ) New DataBaseSQLLite: Handle @122533984
+# 18.07.2021 ( 15:37 ) New DataBaseSQLLite: Handle @128563296
+# 18.07.2021 ( 15:37 ) New DataBaseSQLLite: Handle @121944160
+# 18.07.2021 ( 15:38 ) New DataBaseSQLLite: Handle @122533984
+# 18.07.2021 ( 15:38 ) New DataBaseSQLLite: Handle @128825440
+# 18.07.2021 ( 15:39 ) New DataBaseSQLLite: Handle @127514720
+# 18.07.2021 ( 15:39 ) New DataBaseSQLLite: Handle @123975776
+# 18.07.2021 ( 15:40 ) New DataBaseSQLLite: Handle @122009696
+# 18.07.2021 ( 15:41 ) New DataBaseSQLLite: Handle @128825440
+# 18.07.2021 ( 15:41 ) New DataBaseSQLLite: Handle @123058272
+# 18.07.2021 ( 15:41 ) New DataBaseSQLLite: Handle @121354336
+# 18.07.2021 ( 15:42 ) New DataBaseSQLLite: Handle @129742944
+# 18.07.2021 ( 15:42 ) New DataBaseSQLLite: Handle @131119200
+# 18.07.2021 ( 15:42 ) New DataBaseSQLLite: Handle @122992736
+# 18.07.2021 ( 15:43 ) New DataBaseSQLLite: Handle @122140768
+# 18.07.2021 ( 15:43 ) New DataBaseSQLLite: Handle @122468448
+# 18.07.2021 ( 15:44 ) New DataBaseSQLLite: Handle @122009696
+# 18.07.2021 ( 15:44 ) New DataBaseSQLLite: Handle @128694368
+# 18.07.2021 ( 15:44 ) New DataBaseSQLLite: Handle @62765152
+# 18.07.2021 ( 15:44 ) New DataBaseSQLLite: Handle @128235616
+# 18.07.2021 ( 15:45 ) New DataBaseSQLLite: Handle @125745248
+# 18.07.2021 ( 15:45 ) New DataBaseSQLLite: Handle @128235616
+# 18.07.2021 ( 15:45 ) New DataBaseSQLLite: Handle @121550944
+# 18.07.2021 ( 15:45 ) New DataBaseSQLLite: Handle @125417568
+# 18.07.2021 ( 15:45 ) New DataBaseSQLLite: Handle @123582560
+# 18.07.2021 ( 15:46 ) New DataBaseSQLLite: Handle @122402912
+# 18.07.2021 ( 15:46 ) New DataBaseSQLLite: Handle @129611872
+# 18.07.2021 ( 15:46 ) New DataBaseSQLLite: Handle @128039008
+# 18.07.2021 ( 15:48 ) New DataBaseSQLLite: Handle @128563296
+# 18.07.2021 ( 15:49 ) New DataBaseSQLLite: Handle @127252576
+# 18.07.2021 ( 15:49 ) New DataBaseSQLLite: Handle @130201696
+# 18.07.2021 ( 15:52 ) New DataBaseSQLLite: Handle @130660448
+# 18.07.2021 ( 15:53 ) New DataBaseSQLLite: Handle @128104544
+# 18.07.2021 ( 15:56 ) New DataBaseSQLLite: Handle @127776864
+# 18.07.2021 ( 15:57 ) New DataBaseSQLLite: Handle @130463840
+# 18.07.2021 ( 16:04 ) New DataBaseSQLLite: Handle @127907936
+# 18.07.2021 ( 17:33 ) New DataBaseSQLLite: Handle @128694368
+# 18.07.2021 ( 17:43 ) New DataBaseSQLLite: Handle @127121504
+# 18.07.2021 ( 17:45 ) New DataBaseSQLLite: Handle @128563296
+# 18.07.2021 ( 17:53 ) New DataBaseSQLLite: Handle @123975776
+# 18.07.2021 ( 17:53 ) New DataBaseSQLLite: Handle @128890976
+# 18.07.2021 ( 17:54 ) New DataBaseSQLLite: Handle @128235616
+# 18.07.2021 ( 17:54 ) New DataBaseSQLLite: Handle @122271840
+# 18.07.2021 ( 19:49 ) New DataBaseSQLLite: Handle @128956512
+# 19.07.2021 ( 09:13 ) New DataBaseSQLLite: Handle @124762208
+# 19.07.2021 ( 11:16 ) New DataBaseSQLLite: Handle @122730592
+# 19.07.2021 ( 11:16 ) New DataBaseSQLLite: Handle @130857056
+# 19.07.2021 ( 11:17 ) New DataBaseSQLLite: Handle @122927200
+# 19.07.2021 ( 11:36 ) New DataBaseSQLLite: Handle @128432224
+# 19.07.2021 ( 11:37 ) New DataBaseSQLLite: Handle @127383648
+# 19.07.2021 ( 12:40 ) New DataBaseSQLLite: Handle @123254880
+# 19.07.2021 ( 15:43 ) New DataBaseSQLLite: Handle @130136160
+# 20.07.2021 ( 09:05 ) New DataBaseSQLLite: Handle @122992736
+# 20.07.2021 ( 12:21 ) New DataBaseSQLLite: Handle @130136160
+# 20.07.2021 ( 12:43 ) New DataBaseSQLLite: Handle @129742944
+# 21.07.2021 ( 09:02 ) New DataBaseSQLLite: Handle @122796128
+# 21.07.2021 ( 11:28 ) New DataBaseSQLLite: Handle @129087584
+# 21.07.2021 ( 11:28 ) New DataBaseSQLLite: Handle @130332768
+# 22.07.2021 ( 09:09 ) New DataBaseSQLLite: Handle @63551584
+# 22.07.2021 ( 09:15 ) New DataBaseSQLLite: Handle @131250272
+# 22.07.2021 ( 12:53 ) New DataBaseSQLLite: Handle @128104544
+# 23.07.2021 ( 09:05 ) New DataBaseSQLLite: Handle @129677408
+# 23.07.2021 ( 09:06 ) New DataBaseSQLLite: Handle @127449184
+# 23.07.2021 ( 12:47 ) New DataBaseSQLLite: Handle @128890976
+# 23.07.2021 ( 20:03 ) New DataBaseSQLLite: Handle @128759904
+# 23.07.2021 ( 21:42 ) New DataBaseSQLLite: Handle @122271840
+# 24.07.2021 ( 09:01 ) New DataBaseSQLLite: Handle @120043616
+# 24.07.2021 ( 11:08 ) New DataBaseSQLLite: Handle @129546336
+# 24.07.2021 ( 16:39 ) New DataBaseSQLLite: Handle @129677408
+# 24.07.2021 ( 16:40 ) New DataBaseSQLLite: Handle @132888672
+# 24.07.2021 ( 16:40 ) New DataBaseSQLLite: Handle @127776864
+# 24.07.2021 ( 18:56 ) New DataBaseSQLLite: Handle @128628832
+# 25.07.2021 ( 10:41 ) New DataBaseSQLLite: Handle @125286496
+# 26.07.2021 ( 09:03 ) New DataBaseSQLLite: Handle @133544032
+# 26.07.2021 ( 09:05 ) New DataBaseSQLLite: Handle @123385952
+# 26.07.2021 ( 09:10 ) New DataBaseSQLLite: Handle @130988128
+# 26.07.2021 ( 09:11 ) New DataBaseSQLLite: Handle @129611872
+# 26.07.2021 ( 09:11 ) New DataBaseSQLLite: Handle @130332768
+# 26.07.2021 ( 12:13 ) New DataBaseSQLLite: Handle @129611872
+# 26.07.2021 ( 15:44 ) New DataBaseSQLLite: Handle @128235616
+# 26.07.2021 ( 18:35 ) New DataBaseSQLLite: Handle @124041312
+# 27.07.2021 ( 09:02 ) New DataBaseSQLLite: Handle @121354336
+# 27.07.2021 ( 15:07 ) New DataBaseSQLLite: Handle @128890976
+# 27.07.2021 ( 18:36 ) New DataBaseSQLLite: Handle @130332768
+# 28.07.2021 ( 09:02 ) New DataBaseSQLLite: Handle @119322720
+# 28.07.2021 ( 18:33 ) New DataBaseSQLLite: Handle @128759904
+# 28.07.2021 ( 22:18 ) New DataBaseSQLLite: Handle @124368992
+# 29.07.2021 ( 09:01 ) New DataBaseSQLLite: Handle @119519328
+# 29.07.2021 ( 12:13 ) New DataBaseSQLLite: Handle @131643488
+# 29.07.2021 ( 17:40 ) New DataBaseSQLLite: Handle @124762208
+# 29.07.2021 ( 21:41 ) New DataBaseSQLLite: Handle @129153120
+# 30.07.2021 ( 09:02 ) New DataBaseSQLLite: Handle @123451488
+# 30.07.2021 ( 12:09 ) New DataBaseSQLLite: Handle @129218656
+# 30.07.2021 ( 15:27 ) New DataBaseSQLLite: Handle @129546336
+# 30.07.2021 ( 18:10 ) New DataBaseSQLLite: Handle @128104544
+# 30.07.2021 ( 19:32 ) New DataBaseSQLLite: Handle @129677408
+# 30.07.2021 ( 19:34 ) New DataBaseSQLLite: Handle @121878624
+# 31.07.2021 ( 09:10 ) New DataBaseSQLLite: Handle @120633440
+# 31.07.2021 ( 14:54 ) New DataBaseSQLLite: Handle @129611872
+# 01.08.2021 ( 14:40 ) New DataBaseSQLLite: Handle @129087584
+# 01.08.2021 ( 14:47 ) New DataBaseSQLLite: Handle @122861664
+# 02.08.2021 ( 09:02 ) New DataBaseSQLLite: Handle @122599520
+# 02.08.2021 ( 12:48 ) New DataBaseSQLLite: Handle @130136160
+# 03.08.2021 ( 09:03 ) New DataBaseSQLLite: Handle @130201696
+# 03.08.2021 ( 11:52 ) New DataBaseSQLLite: Handle @129939552
+# 03.08.2021 ( 13:15 ) New DataBaseSQLLite: Handle @131381344
+# 04.08.2021 ( 09:02 ) New DataBaseSQLLite: Handle @131119200
+# 05.08.2021 ( 09:12 ) New DataBaseSQLLite: Handle @128825440
+# 05.08.2021 ( 09:12 ) New DataBaseSQLLite: Handle @128497760
+# 05.08.2021 ( 09:13 ) New DataBaseSQLLite: Handle @119453792
+# 05.08.2021 ( 15:28 ) New DataBaseSQLLite: Handle @128628832
+# 06.08.2021 ( 09:28 ) New DataBaseSQLLite: Handle @129087584
+# 06.08.2021 ( 12:46 ) New DataBaseSQLLite: Handle @128497760
+# 06.08.2021 ( 12:46 ) New DataBaseSQLLite: Handle @127383648
+# 06.08.2021 ( 15:10 ) New DataBaseSQLLite: Handle @128890976
+# 06.08.2021 ( 17:09 ) New DataBaseSQLLite: Handle @123975776
+# 06.08.2021 ( 17:17 ) New DataBaseSQLLite: Handle @61978720
+# 06.08.2021 ( 22:27 ) New DataBaseSQLLite: Handle @132364384
+# 07.08.2021 ( 08:29 ) New DataBaseSQLLite: Handle @124631136
+# 07.08.2021 ( 09:32 ) New DataBaseSQLLite: Handle @128366688
+# 08.08.2021 ( 09:13 ) New DataBaseSQLLite: Handle @125024352
+# 08.08.2021 ( 11:46 ) New DataBaseSQLLite: Handle @129087584
+# 08.08.2021 ( 13:00 ) New DataBaseSQLLite: Handle @129742944
+# 08.08.2021 ( 16:13 ) New DataBaseSQLLite: Handle @129349728
+# 08.08.2021 ( 19:27 ) New DataBaseSQLLite: Handle @128956512
+# 09.08.2021 ( 09:22 ) New DataBaseSQLLite: Handle @130398304
+# 09.08.2021 ( 09:27 ) New DataBaseSQLLite: Handle @129480800
+# 09.08.2021 ( 09:28 ) New DataBaseSQLLite: Handle @118863968
+# 09.08.2021 ( 13:05 ) New DataBaseSQLLite: Handle @130725984
+# 10.08.2021 ( 08:58 ) New DataBaseSQLLite: Handle @123123808
+# 10.08.2021 ( 14:03 ) New DataBaseSQLLite: Handle @127711328
+# 10.08.2021 ( 17:20 ) New DataBaseSQLLite: Handle @129808480
+# 10.08.2021 ( 18:41 ) New DataBaseSQLLite: Handle @129611872
+# 11.08.2021 ( 09:12 ) New DataBaseSQLLite: Handle @120174688
+# 11.08.2021 ( 11:50 ) New DataBaseSQLLite: Handle @128301152
+# 11.08.2021 ( 13:04 ) New DataBaseSQLLite: Handle @129153120
+# 11.08.2021 ( 15:06 ) New DataBaseSQLLite: Handle @128301152
+# 12.08.2021 ( 09:15 ) New DataBaseSQLLite: Handle @130857056
+# 13.08.2021 ( 09:20 ) New DataBaseSQLLite: Handle @130660448
+# 13.08.2021 ( 09:21 ) New DataBaseSQLLite: Handle @129218656
+# 13.08.2021 ( 09:21 ) New DataBaseSQLLite: Handle @130725984
+# 14.08.2021 ( 04:11 ) New DataBaseSQLLite: Handle @119781472
+# 14.08.2021 ( 09:23 ) New DataBaseSQLLite: Handle @123713632
+# 14.08.2021 ( 09:31 ) New DataBaseSQLLite: Handle @122140768
+# 14.08.2021 ( 09:53 ) New DataBaseSQLLite: Handle @132036704
+# 14.08.2021 ( 09:56 ) New DataBaseSQLLite: Handle @129808480
+# 14.08.2021 ( 09:57 ) New DataBaseSQLLite: Handle @128890976
+# 14.08.2021 ( 10:16 ) New DataBaseSQLLite: Handle @127252576
+# 14.08.2021 ( 10:16 ) New DataBaseSQLLite: Handle @128039008
+# 14.08.2021 ( 10:24 ) New DataBaseSQLLite: Handle @128890976
+# 14.08.2021 ( 10:27 ) New DataBaseSQLLite: Handle @131446880
+# 14.08.2021 ( 10:28 ) New DataBaseSQLLite: Handle @129284192
+# 14.08.2021 ( 10:28 ) New DataBaseSQLLite: Handle @128366688
+# 14.08.2021 ( 10:28 ) New DataBaseSQLLite: Handle @128956512
+# 14.08.2021 ( 10:32 ) New DataBaseSQLLite: Handle @129218656
+# 14.08.2021 ( 10:37 ) New DataBaseSQLLite: Handle @128890976
+# 14.08.2021 ( 10:38 ) New DataBaseSQLLite: Handle @128104544
+# 14.08.2021 ( 10:38 ) New DataBaseSQLLite: Handle @127776864
+# 14.08.2021 ( 10:42 ) New DataBaseSQLLite: Handle @122730592
+# 14.08.2021 ( 10:46 ) New DataBaseSQLLite: Handle @122402912
+# 14.08.2021 ( 10:50 ) New DataBaseSQLLite: Handle @128104544
+# 14.08.2021 ( 10:51 ) New DataBaseSQLLite: Handle @127318112
+# 14.08.2021 ( 11:07 ) New DataBaseSQLLite: Handle @127449184
+# 14.08.2021 ( 11:46 ) New DataBaseSQLLite: Handle @128563296
+# 14.08.2021 ( 12:15 ) New DataBaseSQLLite: Handle @128563296
+# 14.08.2021 ( 12:31 ) New DataBaseSQLLite: Handle @128825440
+# 15.08.2021 ( 09:40 ) New DataBaseSQLLite: Handle @133085280
+# 15.08.2021 ( 14:16 ) New DataBaseSQLLite: Handle @131840096
+# 16.08.2021 ( 09:04 ) New DataBaseSQLLite: Handle @128170080
+# 16.08.2021 ( 10:39 ) New DataBaseSQLLite: Handle @129611872
+# 16.08.2021 ( 12:45 ) New DataBaseSQLLite: Handle @131446880
+# 16.08.2021 ( 13:00 ) New DataBaseSQLLite: Handle @127252576
+# 16.08.2021 ( 13:01 ) New DataBaseSQLLite: Handle @130529376
+# 16.08.2021 ( 13:01 ) New DataBaseSQLLite: Handle @129349728
+# 16.08.2021 ( 21:15 ) New DataBaseSQLLite: Handle @127711328
+# 17.08.2021 ( 09:13 ) New DataBaseSQLLite: Handle @124303456
+# 17.08.2021 ( 15:17 ) New DataBaseSQLLite: Handle @128432224
+# 18.08.2021 ( 09:25 ) New DataBaseSQLLite: Handle @135379040
+# 18.08.2021 ( 13:50 ) New DataBaseSQLLite: Handle @128039008
+# 19.08.2021 ( 09:20 ) New DataBaseSQLLite: Handle @121223264
+# 19.08.2021 ( 13:12 ) New DataBaseSQLLite: Handle @129874016
+# 19.08.2021 ( 19:15 ) New DataBaseSQLLite: Handle @127514720
+# 20.08.2021 ( 09:15 ) New DataBaseSQLLite: Handle @128301152
+# 20.08.2021 ( 12:13 ) New DataBaseSQLLite: Handle @128694368
+# 20.08.2021 ( 13:38 ) New DataBaseSQLLite: Handle @127318112
+# 20.08.2021 ( 23:10 ) New DataBaseSQLLite: Handle @127711328
+# 21.08.2021 ( 08:48 ) New DataBaseSQLLite: Handle @120698976
+# 21.08.2021 ( 13:39 ) New DataBaseSQLLite: Handle @127187040
+# 21.08.2021 ( 16:11 ) New DataBaseSQLLite: Handle @127252576
+# 21.08.2021 ( 18:32 ) New DataBaseSQLLite: Handle @127907936
+# 21.08.2021 ( 19:50 ) New DataBaseSQLLite: Handle @128170080
+# 22.08.2021 ( 09:50 ) New DataBaseSQLLite: Handle @130136160
+# 22.08.2021 ( 12:13 ) New DataBaseSQLLite: Handle @128890976
+# 22.08.2021 ( 12:49 ) New DataBaseSQLLite: Handle @127776864
+# 22.08.2021 ( 13:12 ) New DataBaseSQLLite: Handle @127318112
+# 22.08.2021 ( 15:24 ) New DataBaseSQLLite: Handle @127645792
+# 22.08.2021 ( 22:03 ) New DataBaseSQLLite: Handle @128366688
+# 23.08.2021 ( 08:53 ) New DataBaseSQLLite: Handle @121288800
+# 23.08.2021 ( 12:25 ) New DataBaseSQLLite: Handle @130398304
+# 23.08.2021 ( 19:01 ) New DataBaseSQLLite: Handle @127383648
+# 23.08.2021 ( 19:50 ) New DataBaseSQLLite: Handle @128956512
+# 24.08.2021 ( 08:35 ) New DataBaseSQLLite: Handle @128563296
+# 24.08.2021 ( 12:16 ) New DataBaseSQLLite: Handle @129939552
+# 24.08.2021 ( 12:38 ) New DataBaseSQLLite: Handle @127449184
+# 24.08.2021 ( 14:06 ) New DataBaseSQLLite: Handle @127580256
+# 24.08.2021 ( 15:29 ) New DataBaseSQLLite: Handle @128432224
+# 24.08.2021 ( 18:27 ) New DataBaseSQLLite: Handle @127514720
+# 25.08.2021 ( 08:59 ) New DataBaseSQLLite: Handle @120109152
+# 25.08.2021 ( 11:36 ) New DataBaseSQLLite: Handle @127252576
+# 25.08.2021 ( 11:38 ) New DataBaseSQLLite: Handle @128235616
+# 25.08.2021 ( 11:52 ) New DataBaseSQLLite: Handle @130398304
+# 25.08.2021 ( 11:53 ) New DataBaseSQLLite: Handle @129087584
+# 25.08.2021 ( 11:54 ) New DataBaseSQLLite: Handle @129415264
+# 25.08.2021 ( 11:58 ) New DataBaseSQLLite: Handle @128563296
+# 25.08.2021 ( 11:59 ) New DataBaseSQLLite: Handle @127842400
+# 25.08.2021 ( 12:00 ) New DataBaseSQLLite: Handle @128694368
+# 25.08.2021 ( 12:01 ) New DataBaseSQLLite: Handle @126924896
+# 25.08.2021 ( 12:01 ) New DataBaseSQLLite: Handle @129480800
+# 25.08.2021 ( 12:01 ) New DataBaseSQLLite: Handle @127580256
+# 25.08.2021 ( 12:01 ) New DataBaseSQLLite: Handle @128825440
+# 25.08.2021 ( 12:02 ) New DataBaseSQLLite: Handle @128301152
+# 25.08.2021 ( 12:03 ) New DataBaseSQLLite: Handle @127842400
+# 25.08.2021 ( 12:04 ) New DataBaseSQLLite: Handle @130201696
+# 25.08.2021 ( 12:05 ) New DataBaseSQLLite: Handle @128301152
+# 25.08.2021 ( 12:05 ) New DataBaseSQLLite: Handle @127907936
+# 25.08.2021 ( 12:19 ) New DataBaseSQLLite: Handle @129349728
+# 25.08.2021 ( 12:20 ) New DataBaseSQLLite: Handle @128563296
+# 25.08.2021 ( 13:19 ) New DataBaseSQLLite: Handle @128366688
+# 25.08.2021 ( 13:20 ) New DataBaseSQLLite: Handle @129415264
+# 25.08.2021 ( 13:21 ) New DataBaseSQLLite: Handle @129022048
+# 25.08.2021 ( 13:21 ) New DataBaseSQLLite: Handle @129218656
+# 25.08.2021 ( 13:24 ) New DataBaseSQLLite: Handle @127252576
+# 25.08.2021 ( 13:25 ) New DataBaseSQLLite: Handle @127318112
+# 25.08.2021 ( 13:28 ) New DataBaseSQLLite: Handle @129480800
+# 25.08.2021 ( 13:28 ) New DataBaseSQLLite: Handle @130201696
+# 25.08.2021 ( 18:54 ) New DataBaseSQLLite: Handle @129808480
+# 26.08.2021 ( 09:54 ) New DataBaseSQLLite: Handle @122599520
+# 26.08.2021 ( 12:04 ) New DataBaseSQLLite: Handle @129611872
+# 26.08.2021 ( 15:45 ) New DataBaseSQLLite: Handle @127055968
+# 26.08.2021 ( 18:48 ) New DataBaseSQLLite: Handle @130594912
+# 26.08.2021 ( 19:50 ) New DataBaseSQLLite: Handle @128104544
+# 27.08.2021 ( 09:26 ) New DataBaseSQLLite: Handle @121092192
+# 27.08.2021 ( 12:51 ) New DataBaseSQLLite: Handle @128694368
+# 27.08.2021 ( 17:48 ) New DataBaseSQLLite: Handle @127318112
+# 27.08.2021 ( 17:49 ) New DataBaseSQLLite: Handle @127776864
+# 27.08.2021 ( 17:49 ) New DataBaseSQLLite: Handle @128301152
+# 27.08.2021 ( 17:49 ) New DataBaseSQLLite: Handle @129939552
+# 27.08.2021 ( 20:05 ) New DataBaseSQLLite: Handle @129022048
+# 28.08.2021 ( 09:33 ) New DataBaseSQLLite: Handle @121157728
+# 28.08.2021 ( 12:59 ) New DataBaseSQLLite: Handle @127842400
+# 28.08.2021 ( 20:36 ) New DataBaseSQLLite: Handle @128432224
+# 29.08.2021 ( 08:49 ) New DataBaseSQLLite: Handle @120961120
+# 29.08.2021 ( 17:45 ) New DataBaseSQLLite: Handle @126728288
+# 29.08.2021 ( 22:44 ) New DataBaseSQLLite: Handle @129677408
+# 29.08.2021 ( 22:52 ) New DataBaseSQLLite: Handle @130529376
+# 30.08.2021 ( 09:47 ) New DataBaseSQLLite: Handle @119257184
+# 30.08.2021 ( 10:15 ) New DataBaseSQLLite: Handle @128497760
+# 30.08.2021 ( 12:58 ) New DataBaseSQLLite: Handle @128366688
+# 30.08.2021 ( 13:07 ) New DataBaseSQLLite: Handle @127383648
+# 30.08.2021 ( 16:23 ) New DataBaseSQLLite: Handle @128170080
+# 30.08.2021 ( 19:16 ) New DataBaseSQLLite: Handle @128301152
+# 30.08.2021 ( 19:41 ) New DataBaseSQLLite: Handle @128694368
+# 31.08.2021 ( 09:16 ) New DataBaseSQLLite: Handle @120109152
+# 31.08.2021 ( 12:16 ) New DataBaseSQLLite: Handle @129415264
+# 31.08.2021 ( 19:08 ) New DataBaseSQLLite: Handle @128170080
+# 31.08.2021 ( 21:00 ) New DataBaseSQLLite: Handle @127580256
+# 01.09.2021 ( 09:07 ) New DataBaseSQLLite: Handle @119978080
+# 01.09.2021 ( 10:46 ) New DataBaseSQLLite: Handle @127580256
+# 01.09.2021 ( 13:22 ) New DataBaseSQLLite: Handle @128563296
+# 01.09.2021 ( 20:33 ) New DataBaseSQLLite: Handle @128497760
+# 01.09.2021 ( 21:42 ) New DataBaseSQLLite: Handle @127580256
+# 02.09.2021 ( 09:29 ) New DataBaseSQLLite: Handle @127514720
+# 02.09.2021 ( 13:24 ) New DataBaseSQLLite: Handle @128563296
+# 02.09.2021 ( 15:28 ) New DataBaseSQLLite: Handle @128039008
+# 02.09.2021 ( 22:49 ) New DataBaseSQLLite: Handle @126859360
+# 03.09.2021 ( 08:45 ) New DataBaseSQLLite: Handle @128301152
+# 03.09.2021 ( 10:25 ) New DataBaseSQLLite: Handle @128235616
+# 04.09.2021 ( 08:47 ) New DataBaseSQLLite: Handle @122140768
+# 04.09.2021 ( 09:29 ) New DataBaseSQLLite: Handle @128039008
+# 04.09.2021 ( 11:16 ) New DataBaseSQLLite: Handle @128694368
+# 04.09.2021 ( 11:30 ) New DataBaseSQLLite: Handle @129546336
+# 04.09.2021 ( 19:36 ) New DataBaseSQLLite: Handle @129284192
+# 04.09.2021 ( 19:36 ) New DataBaseSQLLite: Handle @127711328
+# 04.09.2021 ( 21:32 ) New DataBaseSQLLite: Handle @129284192
+# 05.09.2021 ( 09:21 ) New DataBaseSQLLite: Handle @128170080
+# 05.09.2021 ( 12:04 ) New DataBaseSQLLite: Handle @127514720
+# 05.09.2021 ( 21:43 ) New DataBaseSQLLite: Handle @129087584
+# 06.09.2021 ( 09:18 ) New DataBaseSQLLite: Handle @120436832
+# 06.09.2021 ( 12:20 ) New DataBaseSQLLite: Handle @123058272
+# 06.09.2021 ( 14:41 ) New DataBaseSQLLite: Handle @128104544
+# 06.09.2021 ( 15:09 ) New DataBaseSQLLite: Handle @128104544
+# 07.09.2021 ( 08:31 ) New DataBaseSQLLite: Handle @129415264
+# 07.09.2021 ( 16:18 ) New DataBaseSQLLite: Handle @128235616
+# 07.09.2021 ( 19:10 ) New DataBaseSQLLite: Handle @127973472
+# 08.09.2021 ( 09:07 ) New DataBaseSQLLite: Handle @120043616
+# 08.09.2021 ( 12:54 ) New DataBaseSQLLite: Handle @128170080
+# 08.09.2021 ( 18:56 ) New DataBaseSQLLite: Handle @127318112
+# 08.09.2021 ( 21:20 ) New DataBaseSQLLite: Handle @127318112
+# 09.09.2021 ( 09:07 ) New DataBaseSQLLite: Handle @118667360
+# 09.09.2021 ( 12:03 ) New DataBaseSQLLite: Handle @130267232
+# 09.09.2021 ( 18:51 ) New DataBaseSQLLite: Handle @129874016
+# 09.09.2021 ( 20:35 ) New DataBaseSQLLite: Handle @119322720
+# 09.09.2021 ( 20:36 ) New DataBaseSQLLite: Handle @128759904
+# 10.09.2021 ( 09:08 ) New DataBaseSQLLite: Handle @128956512
+# 10.09.2021 ( 11:55 ) New DataBaseSQLLite: Handle @128366688
+# 10.09.2021 ( 18:55 ) New DataBaseSQLLite: Handle @129546336
+# 10.09.2021 ( 20:17 ) New DataBaseSQLLite: Handle @128170080
+# 11.09.2021 ( 06:55 ) New DataBaseSQLLite: Handle @129415264
+# 11.09.2021 ( 10:18 ) New DataBaseSQLLite: Handle @130070624
+# 11.09.2021 ( 12:55 ) New DataBaseSQLLite: Handle @129415264
+# 11.09.2021 ( 15:38 ) New DataBaseSQLLite: Handle @128563296
+# 11.09.2021 ( 19:58 ) New DataBaseSQLLite: Handle @127449184
+# 11.09.2021 ( 20:19 ) New DataBaseSQLLite: Handle @126924896
+# 12.09.2021 ( 09:06 ) New DataBaseSQLLite: Handle @121878624
+# 12.09.2021 ( 11:52 ) New DataBaseSQLLite: Handle @129415264
+# 12.09.2021 ( 16:31 ) New DataBaseSQLLite: Handle @128432224
+# 12.09.2021 ( 20:24 ) New DataBaseSQLLite: Handle @129677408
+# 13.09.2021 ( 09:11 ) New DataBaseSQLLite: Handle @119257184
+# 13.09.2021 ( 12:19 ) New DataBaseSQLLite: Handle @129480800
+# 13.09.2021 ( 15:58 ) New DataBaseSQLLite: Handle @128890976
+# 13.09.2021 ( 18:35 ) New DataBaseSQLLite: Handle @128432224
+# 13.09.2021 ( 19:06 ) New DataBaseSQLLite: Handle @128497760
+# 13.09.2021 ( 19:26 ) New DataBaseSQLLite: Handle @128956512
+# 14.09.2021 ( 09:05 ) New DataBaseSQLLite: Handle @119519328
+# 14.09.2021 ( 12:23 ) New DataBaseSQLLite: Handle @128956512
+# 14.09.2021 ( 19:39 ) New DataBaseSQLLite: Handle @128170080
+# 14.09.2021 ( 22:39 ) New DataBaseSQLLite: Handle @128825440
+# 15.09.2021 ( 08:56 ) New DataBaseSQLLite: Handle @119650400
+# 15.09.2021 ( 12:03 ) New DataBaseSQLLite: Handle @130201696
+# 15.09.2021 ( 16:19 ) New DataBaseSQLLite: Handle @127842400
+# 15.09.2021 ( 19:49 ) New DataBaseSQLLite: Handle @129874016
+# 16.09.2021 ( 08:55 ) New DataBaseSQLLite: Handle @121354336
+# 16.09.2021 ( 11:32 ) New DataBaseSQLLite: Handle @129349728
+# 16.09.2021 ( 12:47 ) New DataBaseSQLLite: Handle @128301152
+# 16.09.2021 ( 18:54 ) New DataBaseSQLLite: Handle @129022048
+# 17.09.2021 ( 08:56 ) New DataBaseSQLLite: Handle @119715936
+# 17.09.2021 ( 09:18 ) New DataBaseSQLLite: Handle @127776864
+# 17.09.2021 ( 15:33 ) New DataBaseSQLLite: Handle @129153120
+# 17.09.2021 ( 19:51 ) New DataBaseSQLLite: Handle @127449184
+# 17.09.2021 ( 21:39 ) New DataBaseSQLLite: Handle @127907936
+# 18.09.2021 ( 13:42 ) New DataBaseSQLLite: Handle @120633440
+# 18.09.2021 ( 17:39 ) New DataBaseSQLLite: Handle @128956512
+# 19.09.2021 ( 08:01 ) New DataBaseSQLLite: Handle @127121504
+# 19.09.2021 ( 09:57 ) New DataBaseSQLLite: Handle @121616480
+# 19.09.2021 ( 14:36 ) New DataBaseSQLLite: Handle @127973472
+# 19.09.2021 ( 15:24 ) New DataBaseSQLLite: Handle @128104544
+# 19.09.2021 ( 16:09 ) New DataBaseSQLLite: Handle @128563296
+# 19.09.2021 ( 19:22 ) New DataBaseSQLLite: Handle @131053664
+# 19.09.2021 ( 19:22 ) New DataBaseSQLLite: Handle @127055968
+# 19.09.2021 ( 22:12 ) New DataBaseSQLLite: Handle @131381344
+# 19.09.2021 ( 22:16 ) New DataBaseSQLLite: Handle @126990432
+# 19.09.2021 ( 22:25 ) New DataBaseSQLLite: Handle @130791520
+# 19.09.2021 ( 22:38 ) New DataBaseSQLLite: Handle @122075232
+# 20.09.2021 ( 09:47 ) New DataBaseSQLLite: Handle @127514720
+# 20.09.2021 ( 10:33 ) New DataBaseSQLLite: Handle @127842400
+# 20.09.2021 ( 10:33 ) New DataBaseSQLLite: Handle @128235616
+# 20.09.2021 ( 10:34 ) New DataBaseSQLLite: Handle @130005088
+# 20.09.2021 ( 10:41 ) New DataBaseSQLLite: Handle @129742944
+# 20.09.2021 ( 11:01 ) New DataBaseSQLLite: Handle @126793824
+# 20.09.2021 ( 13:27 ) New DataBaseSQLLite: Handle @128235616
+# 20.09.2021 ( 13:55 ) New DataBaseSQLLite: Handle @122402912
+# 20.09.2021 ( 14:19 ) New DataBaseSQLLite: Handle @122468448
+# 20.09.2021 ( 14:30 ) New DataBaseSQLLite: Handle @129218656
+# 20.09.2021 ( 15:45 ) New DataBaseSQLLite: Handle @61388896
+# 20.09.2021 ( 15:55 ) New DataBaseSQLLite: Handle @138393696
+# 20.09.2021 ( 16:27 ) New DataBaseSQLLite: Handle @136624224
+# 20.09.2021 ( 16:31 ) New DataBaseSQLLite: Handle @136689760
+# 20.09.2021 ( 16:33 ) New DataBaseSQLLite: Handle @128825440
+# 20.09.2021 ( 16:34 ) New DataBaseSQLLite: Handle @131774560
+# 20.09.2021 ( 16:38 ) New DataBaseSQLLite: Handle @128563296
+# 20.09.2021 ( 19:45 ) New DataBaseSQLLite: Handle @139114592
+# 20.09.2021 ( 22:13 ) New DataBaseSQLLite: Handle @139114592
+# 21.09.2021 ( 09:31 ) New DataBaseSQLLite: Handle @127318112
+# 21.09.2021 ( 12:42 ) New DataBaseSQLLite: Handle @138066016
+# 21.09.2021 ( 13:16 ) New DataBaseSQLLite: Handle @137607264
+# 21.09.2021 ( 16:04 ) New DataBaseSQLLite: Handle @129939552
+# 22.09.2021 ( 09:06 ) New DataBaseSQLLite: Handle @130725984
+# 22.09.2021 ( 12:59 ) New DataBaseSQLLite: Handle @136820832
+# 22.09.2021 ( 15:02 ) New DataBaseSQLLite: Handle @137607264
+# 22.09.2021 ( 15:12 ) New DataBaseSQLLite: Handle @137214048
+# 22.09.2021 ( 15:12 ) New DataBaseSQLLite: Handle @135641184
+# 22.09.2021 ( 15:13 ) New DataBaseSQLLite: Handle @137410656
+# 22.09.2021 ( 15:14 ) New DataBaseSQLLite: Handle @137214048
+# 22.09.2021 ( 16:02 ) New DataBaseSQLLite: Handle @136624224
+# 22.09.2021 ( 16:03 ) New DataBaseSQLLite: Handle @135968864
+# 22.09.2021 ( 20:13 ) New DataBaseSQLLite: Handle @131840096
+# 22.09.2021 ( 20:49 ) New DataBaseSQLLite: Handle @137672800
+# 22.09.2021 ( 21:39 ) New DataBaseSQLLite: Handle @136362080
+# 23.09.2021 ( 09:09 ) New DataBaseSQLLite: Handle @136296544
+# 23.09.2021 ( 09:11 ) New DataBaseSQLLite: Handle @136231008
+# 23.09.2021 ( 09:12 ) New DataBaseSQLLite: Handle @135444576
+# 23.09.2021 ( 11:53 ) New DataBaseSQLLite: Handle @135968864
+# 23.09.2021 ( 11:57 ) New DataBaseSQLLite: Handle @138917984
+# 23.09.2021 ( 13:08 ) New DataBaseSQLLite: Handle @137017440
+# 23.09.2021 ( 19:31 ) New DataBaseSQLLite: Handle @137672800
+# 23.09.2021 ( 21:47 ) New DataBaseSQLLite: Handle @135968864
+# 24.09.2021 ( 09:12 ) New DataBaseSQLLite: Handle @137803872
+# 24.09.2021 ( 12:02 ) New DataBaseSQLLite: Handle @137803872
+# 24.09.2021 ( 21:29 ) New DataBaseSQLLite: Handle @136886368
+# 24.09.2021 ( 21:44 ) New DataBaseSQLLite: Handle @137148512
+# 24.09.2021 ( 22:15 ) New DataBaseSQLLite: Handle @135510112
+# 25.09.2021 ( 09:27 ) New DataBaseSQLLite: Handle @128956512
+# 25.09.2021 ( 12:04 ) New DataBaseSQLLite: Handle @136755296
+# 25.09.2021 ( 17:40 ) New DataBaseSQLLite: Handle @138066016
+# 25.09.2021 ( 18:55 ) New DataBaseSQLLite: Handle @138655840
+# 25.09.2021 ( 19:34 ) New DataBaseSQLLite: Handle @137410656
+# 25.09.2021 ( 20:12 ) New DataBaseSQLLite: Handle @149928032
+# 26.09.2021 ( 09:11 ) New DataBaseSQLLite: Handle @136427616
+# 26.09.2021 ( 09:23 ) New DataBaseSQLLite: Handle @139442272
+# 26.09.2021 ( 11:53 ) New DataBaseSQLLite: Handle @138721376
+# 26.09.2021 ( 16:35 ) New DataBaseSQLLite: Handle @136099936
+# 26.09.2021 ( 19:02 ) New DataBaseSQLLite: Handle @134789216
+# 26.09.2021 ( 22:15 ) New DataBaseSQLLite: Handle @138786912
+# 26.09.2021 ( 22:46 ) New DataBaseSQLLite: Handle @132102240
+# 27.09.2021 ( 09:06 ) New DataBaseSQLLite: Handle @130005088
+# 27.09.2021 ( 11:16 ) New DataBaseSQLLite: Handle @138590304
+# 27.09.2021 ( 15:01 ) New DataBaseSQLLite: Handle @139376736
+# 27.09.2021 ( 18:52 ) New DataBaseSQLLite: Handle @138983520
+# 27.09.2021 ( 19:32 ) New DataBaseSQLLite: Handle @138590304
+# 28.09.2021 ( 09:09 ) New DataBaseSQLLite: Handle @131643488
+# 28.09.2021 ( 12:18 ) New DataBaseSQLLite: Handle @130136160
+# 28.09.2021 ( 16:51 ) New DataBaseSQLLite: Handle @135575648
+# 28.09.2021 ( 16:52 ) New DataBaseSQLLite: Handle @141146208
+# 28.09.2021 ( 16:52 ) New DataBaseSQLLite: Handle @137148512
+# 28.09.2021 ( 16:52 ) New DataBaseSQLLite: Handle @136624224
+# 28.09.2021 ( 16:53 ) New DataBaseSQLLite: Handle @138262624
+# 28.09.2021 ( 17:13 ) New DataBaseSQLLite: Handle @138393696
+# 28.09.2021 ( 18:49 ) New DataBaseSQLLite: Handle @132823136
+# 28.09.2021 ( 18:50 ) New DataBaseSQLLite: Handle @139376736
+# 28.09.2021 ( 19:44 ) New DataBaseSQLLite: Handle @140556384
+# 28.09.2021 ( 20:39 ) New DataBaseSQLLite: Handle @138852448
+# 29.09.2021 ( 09:06 ) New DataBaseSQLLite: Handle @130857056
+# 29.09.2021 ( 09:23 ) New DataBaseSQLLite: Handle @129742944
+# 29.09.2021 ( 12:27 ) New DataBaseSQLLite: Handle @139901024
+# 29.09.2021 ( 16:40 ) New DataBaseSQLLite: Handle @136558688
+# 29.09.2021 ( 16:42 ) New DataBaseSQLLite: Handle @137148512
+# 29.09.2021 ( 16:42 ) New DataBaseSQLLite: Handle @136362080
+# 29.09.2021 ( 16:43 ) New DataBaseSQLLite: Handle @136951904
+# 29.09.2021 ( 16:43 ) New DataBaseSQLLite: Handle @135379040
+# 29.09.2021 ( 16:43 ) New DataBaseSQLLite: Handle @137672800
+# 29.09.2021 ( 16:43 ) New DataBaseSQLLite: Handle @140097632
+# 29.09.2021 ( 16:43 ) New DataBaseSQLLite: Handle @136362080
+# 29.09.2021 ( 16:44 ) New DataBaseSQLLite: Handle @136886368
+# 29.09.2021 ( 16:47 ) New DataBaseSQLLite: Handle @141211744
+# 29.09.2021 ( 16:47 ) New DataBaseSQLLite: Handle @138983520
+# 29.09.2021 ( 16:50 ) New DataBaseSQLLite: Handle @136558688
+# 29.09.2021 ( 16:51 ) New DataBaseSQLLite: Handle @137279584
+# 29.09.2021 ( 16:54 ) New DataBaseSQLLite: Handle @136034400
+# 29.09.2021 ( 16:55 ) New DataBaseSQLLite: Handle @137345120
+# 29.09.2021 ( 16:55 ) New DataBaseSQLLite: Handle @136427616
+# 29.09.2021 ( 17:10 ) New DataBaseSQLLite: Handle @138131552
+# 29.09.2021 ( 17:14 ) New DataBaseSQLLite: Handle @136755296
+# 29.09.2021 ( 17:15 ) New DataBaseSQLLite: Handle @138066016
+# 29.09.2021 ( 17:15 ) New DataBaseSQLLite: Handle @139573344
+# 29.09.2021 ( 17:15 ) New DataBaseSQLLite: Handle @137476192
+# 29.09.2021 ( 17:17 ) New DataBaseSQLLite: Handle @142391392
+# 29.09.2021 ( 17:17 ) New DataBaseSQLLite: Handle @137607264
+# 29.09.2021 ( 17:18 ) New DataBaseSQLLite: Handle @137476192
+# 29.09.2021 ( 17:18 ) New DataBaseSQLLite: Handle @136624224
+# 29.09.2021 ( 17:18 ) New DataBaseSQLLite: Handle @143243360
+# 29.09.2021 ( 17:19 ) New DataBaseSQLLite: Handle @140621920
+# 29.09.2021 ( 17:19 ) New DataBaseSQLLite: Handle @139638880
+# 29.09.2021 ( 17:20 ) New DataBaseSQLLite: Handle @140490848
+# 29.09.2021 ( 17:22 ) New DataBaseSQLLite: Handle @137082976
+# 29.09.2021 ( 17:23 ) New DataBaseSQLLite: Handle @137279584
+# 29.09.2021 ( 17:23 ) New DataBaseSQLLite: Handle @136296544
+# 29.09.2021 ( 17:25 ) New DataBaseSQLLite: Handle @136886368
+# 29.09.2021 ( 17:27 ) New DataBaseSQLLite: Handle @136624224
+# 29.09.2021 ( 17:29 ) New DataBaseSQLLite: Handle @133544032
+# 29.09.2021 ( 17:29 ) New DataBaseSQLLite: Handle @137672800
+# 29.09.2021 ( 17:37 ) New DataBaseSQLLite: Handle @136689760
+# 29.09.2021 ( 20:11 ) New DataBaseSQLLite: Handle @139114592
+# 29.09.2021 ( 22:06 ) New DataBaseSQLLite: Handle @137410656
+# 30.09.2021 ( 09:08 ) New DataBaseSQLLite: Handle @139704416
+# 30.09.2021 ( 12:36 ) New DataBaseSQLLite: Handle @138197088
+# 30.09.2021 ( 19:11 ) New DataBaseSQLLite: Handle @140032096
+# 01.10.2021 ( 11:36 ) New DataBaseSQLLite: Handle @133675104
+# 01.10.2021 ( 15:37 ) New DataBaseSQLLite: Handle @149141600
+# 01.10.2021 ( 19:39 ) New DataBaseSQLLite: Handle @147634272
+# 02.10.2021 ( 12:22 ) New DataBaseSQLLite: Handle @144881760
+# 02.10.2021 ( 12:56 ) New DataBaseSQLLite: Handle @146258016
+# 02.10.2021 ( 19:36 ) New DataBaseSQLLite: Handle @148748384
+# 02.10.2021 ( 20:23 ) New DataBaseSQLLite: Handle @149993568
+# 02.10.2021 ( 20:27 ) New DataBaseSQLLite: Handle @148224096
+# 02.10.2021 ( 21:55 ) New DataBaseSQLLite: Handle @150648928
+# 03.10.2021 ( 08:34 ) New DataBaseSQLLite: Handle @143374432
+# 03.10.2021 ( 11:30 ) New DataBaseSQLLite: Handle @148027488
+# 03.10.2021 ( 11:31 ) New DataBaseSQLLite: Handle @145864800
+# 03.10.2021 ( 11:34 ) New DataBaseSQLLite: Handle @149600352
+# 03.10.2021 ( 11:34 ) New DataBaseSQLLite: Handle @149141600
+# 03.10.2021 ( 11:34 ) New DataBaseSQLLite: Handle @149403744
+# 03.10.2021 ( 11:34 ) New DataBaseSQLLite: Handle @149207136
+# 03.10.2021 ( 11:35 ) New DataBaseSQLLite: Handle @148158560
+# 03.10.2021 ( 11:35 ) New DataBaseSQLLite: Handle @148420704
+# 03.10.2021 ( 11:35 ) New DataBaseSQLLite: Handle @150845536
+# 03.10.2021 ( 11:35 ) New DataBaseSQLLite: Handle @150845536
+# 03.10.2021 ( 11:35 ) New DataBaseSQLLite: Handle @151042144
+# 03.10.2021 ( 11:36 ) New DataBaseSQLLite: Handle @148944992
+# 03.10.2021 ( 11:36 ) New DataBaseSQLLite: Handle @149534816
+# 03.10.2021 ( 11:36 ) New DataBaseSQLLite: Handle @149076064
+# 03.10.2021 ( 11:36 ) New DataBaseSQLLite: Handle @151173216
+# 03.10.2021 ( 11:36 ) New DataBaseSQLLite: Handle @148158560
+# 03.10.2021 ( 11:36 ) New DataBaseSQLLite: Handle @149796960
+# 03.10.2021 ( 11:37 ) New DataBaseSQLLite: Handle @150190176
+# 03.10.2021 ( 11:37 ) New DataBaseSQLLite: Handle @150059104
+# 03.10.2021 ( 11:37 ) New DataBaseSQLLite: Handle @146520160
+# 03.10.2021 ( 11:40 ) New DataBaseSQLLite: Handle @147634272
+# 03.10.2021 ( 12:20 ) New DataBaseSQLLite: Handle @148093024
+# 04.10.2021 ( 10:26 ) New DataBaseSQLLite: Handle @140097632
+# 04.10.2021 ( 10:43 ) New DataBaseSQLLite: Handle @140163168
+# 04.10.2021 ( 11:24 ) New DataBaseSQLLite: Handle @136493152
+# 04.10.2021 ( 13:56 ) New DataBaseSQLLite: Handle @137803872
+# 05.10.2021 ( 11:22 ) New DataBaseSQLLite: Handle @140097632
+# 05.10.2021 ( 17:50 ) New DataBaseSQLLite: Handle @136558688
+# 06.10.2021 ( 09:15 ) New DataBaseSQLLite: Handle @130267232
+# 06.10.2021 ( 17:18 ) New DataBaseSQLLite: Handle @138655840
+# 06.10.2021 ( 19:59 ) New DataBaseSQLLite: Handle @139966560
+# 07.10.2021 ( 12:41 ) New DataBaseSQLLite: Handle @139901024
+# 07.10.2021 ( 13:02 ) New DataBaseSQLLite: Handle @131905632
+# 07.10.2021 ( 13:10 ) New DataBaseSQLLite: Handle @63944800
+# 07.10.2021 ( 13:34 ) New DataBaseSQLLite: Handle @136624224
+# 07.10.2021 ( 16:30 ) New DataBaseSQLLite: Handle @146126944
+# 07.10.2021 ( 16:59 ) New DataBaseSQLLite: Handle @135313504
+# 07.10.2021 ( 17:01 ) New DataBaseSQLLite: Handle @139376736
+# 07.10.2021 ( 17:01 ) New DataBaseSQLLite: Handle @137279584
+# 07.10.2021 ( 17:22 ) New DataBaseSQLLite: Handle @138721376
+# 07.10.2021 ( 17:27 ) New DataBaseSQLLite: Handle @137082976
+# 07.10.2021 ( 17:28 ) New DataBaseSQLLite: Handle @137148512
+# 07.10.2021 ( 17:28 ) New DataBaseSQLLite: Handle @137803872
+# 07.10.2021 ( 17:28 ) New DataBaseSQLLite: Handle @138590304
+# 07.10.2021 ( 19:11 ) New DataBaseSQLLite: Handle @145471584
+# 07.10.2021 ( 21:27 ) New DataBaseSQLLite: Handle @149469280
+# 08.10.2021 ( 09:06 ) New DataBaseSQLLite: Handle @131577952
+# 08.10.2021 ( 12:52 ) New DataBaseSQLLite: Handle @136099936
+# 08.10.2021 ( 18:51 ) New DataBaseSQLLite: Handle @137410656
+# 08.10.2021 ( 19:14 ) New DataBaseSQLLite: Handle @137279584
+# 08.10.2021 ( 19:15 ) New DataBaseSQLLite: Handle @138459232
+# 08.10.2021 ( 19:26 ) New DataBaseSQLLite: Handle @138852448
+# 08.10.2021 ( 19:27 ) New DataBaseSQLLite: Handle @136099936
+# 08.10.2021 ( 19:27 ) New DataBaseSQLLite: Handle @138262624
+# 08.10.2021 ( 19:27 ) New DataBaseSQLLite: Handle @141342816
+# 08.10.2021 ( 19:27 ) New DataBaseSQLLite: Handle @139704416
+# 08.10.2021 ( 19:28 ) New DataBaseSQLLite: Handle @138131552
+# 08.10.2021 ( 19:28 ) New DataBaseSQLLite: Handle @137279584
+# 09.10.2021 ( 10:23 ) New DataBaseSQLLite: Handle @133544032
+# 09.10.2021 ( 12:34 ) New DataBaseSQLLite: Handle @138066016
+# 09.10.2021 ( 13:38 ) New DataBaseSQLLite: Handle @139966560
+# 09.10.2021 ( 20:28 ) New DataBaseSQLLite: Handle @138459232
+# 09.10.2021 ( 20:29 ) New DataBaseSQLLite: Handle @137607264
+# 10.10.2021 ( 10:23 ) New DataBaseSQLLite: Handle @138131552
+# 10.10.2021 ( 10:25 ) New DataBaseSQLLite: Handle @137410656
+# 10.10.2021 ( 10:40 ) New DataBaseSQLLite: Handle @137214048
+# 10.10.2021 ( 12:36 ) New DataBaseSQLLite: Handle @138459232
+# 10.10.2021 ( 16:34 ) New DataBaseSQLLite: Handle @139311200
+# 10.10.2021 ( 16:34 ) New DataBaseSQLLite: Handle @136034400
+# 10.10.2021 ( 16:35 ) New DataBaseSQLLite: Handle @137607264
+# 10.10.2021 ( 16:36 ) New DataBaseSQLLite: Handle @140163168
+# 10.10.2021 ( 16:37 ) New DataBaseSQLLite: Handle @139311200
+# 10.10.2021 ( 16:37 ) New DataBaseSQLLite: Handle @140294240
+# 10.10.2021 ( 16:37 ) New DataBaseSQLLite: Handle @142456928
+# 10.10.2021 ( 16:37 ) New DataBaseSQLLite: Handle @138590304
+# 10.10.2021 ( 17:55 ) New DataBaseSQLLite: Handle @139966560
+# 10.10.2021 ( 17:55 ) New DataBaseSQLLite: Handle @137017440
+# 11.10.2021 ( 09:28 ) New DataBaseSQLLite: Handle @125089888
+# 11.10.2021 ( 12:07 ) New DataBaseSQLLite: Handle @133937248
+# 11.10.2021 ( 20:23 ) New DataBaseSQLLite: Handle @138328160
+# 11.10.2021 ( 21:50 ) New DataBaseSQLLite: Handle @137017440
+# 12.10.2021 ( 09:11 ) New DataBaseSQLLite: Handle @140228704
+# 12.10.2021 ( 09:15 ) New DataBaseSQLLite: Handle @137279584
+# 12.10.2021 ( 09:15 ) New DataBaseSQLLite: Handle @137607264
+# 12.10.2021 ( 09:15 ) New DataBaseSQLLite: Handle @137541728
+# 12.10.2021 ( 09:15 ) New DataBaseSQLLite: Handle @137410656
+# 12.10.2021 ( 11:55 ) New DataBaseSQLLite: Handle @136165472
+# 12.10.2021 ( 17:40 ) New DataBaseSQLLite: Handle @139442272
+# 12.10.2021 ( 22:23 ) New DataBaseSQLLite: Handle @137214048
+# 13.10.2021 ( 09:19 ) New DataBaseSQLLite: Handle @141211744
+# 13.10.2021 ( 10:55 ) New DataBaseSQLLite: Handle @138852448
+# 13.10.2021 ( 10:55 ) New DataBaseSQLLite: Handle @139245664
+# 13.10.2021 ( 13:04 ) New DataBaseSQLLite: Handle @133544032
+# 13.10.2021 ( 19:14 ) New DataBaseSQLLite: Handle @138328160
+# 13.10.2021 ( 19:52 ) New DataBaseSQLLite: Handle @140949600
+# 14.10.2021 ( 09:00 ) New DataBaseSQLLite: Handle @132495456
+# 14.10.2021 ( 18:53 ) New DataBaseSQLLite: Handle @136493152
+# 15.10.2021 ( 08:59 ) New DataBaseSQLLite: Handle @135116896
+# 15.10.2021 ( 12:40 ) New DataBaseSQLLite: Handle @136886368
+# 15.10.2021 ( 12:43 ) New DataBaseSQLLite: Handle @136034400
+# 15.10.2021 ( 12:49 ) New DataBaseSQLLite: Handle @135379040
+# 15.10.2021 ( 18:00 ) New DataBaseSQLLite: Handle @138655840
+# 15.10.2021 ( 18:00 ) New DataBaseSQLLite: Handle @135510112
+# 15.10.2021 ( 18:03 ) New DataBaseSQLLite: Handle @140752992
+# 15.10.2021 ( 18:20 ) New DataBaseSQLLite: Handle @62961760
+# 15.10.2021 ( 19:03 ) New DataBaseSQLLite: Handle @138590304
+# 16.10.2021 ( 10:45 ) New DataBaseSQLLite: Handle @132167776
+# 16.10.2021 ( 12:52 ) New DataBaseSQLLite: Handle @140687456
+# 16.10.2021 ( 19:30 ) New DataBaseSQLLite: Handle @146126944
+# 16.10.2021 ( 21:24 ) New DataBaseSQLLite: Handle @140556384
+# 16.10.2021 ( 22:26 ) New DataBaseSQLLite: Handle @137148512
+# 16.10.2021 ( 22:57 ) New DataBaseSQLLite: Handle @149403744
+# 16.10.2021 ( 23:37 ) New DataBaseSQLLite: Handle @139245664
+# 16.10.2021 ( 23:37 ) New DataBaseSQLLite: Handle @137214048
+# 16.10.2021 ( 23:37 ) New DataBaseSQLLite: Handle @139901024
+# 17.10.2021 ( 09:31 ) New DataBaseSQLLite: Handle @147765344
+# 17.10.2021 ( 10:27 ) New DataBaseSQLLite: Handle @148289632
+# 17.10.2021 ( 10:27 ) New DataBaseSQLLite: Handle @145930336
+# 17.10.2021 ( 10:45 ) New DataBaseSQLLite: Handle @147175520
+# 17.10.2021 ( 10:46 ) New DataBaseSQLLite: Handle @147503200
+# 17.10.2021 ( 10:46 ) New DataBaseSQLLite: Handle @146126944
+# 17.10.2021 ( 10:46 ) New DataBaseSQLLite: Handle @145143904
+# 17.10.2021 ( 10:46 ) New DataBaseSQLLite: Handle @145406048
+# 17.10.2021 ( 10:47 ) New DataBaseSQLLite: Handle @146192480
+# 17.10.2021 ( 10:47 ) New DataBaseSQLLite: Handle @146782304
+# 17.10.2021 ( 11:09 ) New DataBaseSQLLite: Handle @148224096
+# 17.10.2021 ( 11:10 ) New DataBaseSQLLite: Handle @146585696
+# 17.10.2021 ( 11:15 ) New DataBaseSQLLite: Handle @146978912
+# 17.10.2021 ( 11:20 ) New DataBaseSQLLite: Handle @146454624
+# 17.10.2021 ( 11:25 ) New DataBaseSQLLite: Handle @145995872
+# 17.10.2021 ( 11:25 ) New DataBaseSQLLite: Handle @147896416
+# 17.10.2021 ( 11:29 ) New DataBaseSQLLite: Handle @139114592
+# 17.10.2021 ( 11:29 ) New DataBaseSQLLite: Handle @138786912
+# 17.10.2021 ( 11:38 ) New DataBaseSQLLite: Handle @140359776
+# 17.10.2021 ( 11:39 ) New DataBaseSQLLite: Handle @146389088
+# 17.10.2021 ( 11:40 ) New DataBaseSQLLite: Handle @142850144
+# 17.10.2021 ( 11:40 ) New DataBaseSQLLite: Handle @145406048
+# 17.10.2021 ( 11:41 ) New DataBaseSQLLite: Handle @147241056
+# 17.10.2021 ( 11:46 ) New DataBaseSQLLite: Handle @140032096
+# 17.10.2021 ( 11:47 ) New DataBaseSQLLite: Handle @141670496
+# 17.10.2021 ( 11:50 ) New DataBaseSQLLite: Handle @140294240
+# 17.10.2021 ( 11:58 ) New DataBaseSQLLite: Handle @150321248
+# 17.10.2021 ( 12:01 ) New DataBaseSQLLite: Handle @140949600
+# 17.10.2021 ( 12:02 ) New DataBaseSQLLite: Handle @147830880
+# 17.10.2021 ( 12:03 ) New DataBaseSQLLite: Handle @147699808
+# 17.10.2021 ( 12:51 ) New DataBaseSQLLite: Handle @141408352
+# 17.10.2021 ( 12:53 ) New DataBaseSQLLite: Handle @140818528
+# 17.10.2021 ( 12:53 ) New DataBaseSQLLite: Handle @138983520
+# 17.10.2021 ( 12:55 ) New DataBaseSQLLite: Handle @146520160
+# 17.10.2021 ( 12:56 ) New DataBaseSQLLite: Handle @142063712
+# 17.10.2021 ( 12:57 ) New DataBaseSQLLite: Handle @141342816
+# 17.10.2021 ( 12:57 ) New DataBaseSQLLite: Handle @147044448
+# 17.10.2021 ( 12:57 ) New DataBaseSQLLite: Handle @140163168
+# 17.10.2021 ( 13:13 ) New DataBaseSQLLite: Handle @145995872
+# 17.10.2021 ( 13:13 ) New DataBaseSQLLite: Handle @149338208
+# 17.10.2021 ( 13:14 ) New DataBaseSQLLite: Handle @148027488
+# 17.10.2021 ( 13:17 ) New DataBaseSQLLite: Handle @146847840
+# 17.10.2021 ( 13:17 ) New DataBaseSQLLite: Handle @149862496
+# 17.10.2021 ( 13:17 ) New DataBaseSQLLite: Handle @147634272
+# 17.10.2021 ( 13:17 ) New DataBaseSQLLite: Handle @146192480
+# 17.10.2021 ( 13:19 ) New DataBaseSQLLite: Handle @148093024
+# 17.10.2021 ( 13:28 ) New DataBaseSQLLite: Handle @146389088
+# 17.10.2021 ( 14:17 ) New DataBaseSQLLite: Handle @146782304
+# 17.10.2021 ( 14:18 ) New DataBaseSQLLite: Handle @150190176
+# 17.10.2021 ( 14:20 ) New DataBaseSQLLite: Handle @148682848
+# 17.10.2021 ( 14:44 ) New DataBaseSQLLite: Handle @138131552
+# 17.10.2021 ( 15:49 ) New DataBaseSQLLite: Handle @139049056
+# 17.10.2021 ( 15:49 ) New DataBaseSQLLite: Handle @137082976
+# 17.10.2021 ( 15:50 ) New DataBaseSQLLite: Handle @136820832
+# 17.10.2021 ( 15:56 ) New DataBaseSQLLite: Handle @138655840
+# 17.10.2021 ( 15:56 ) New DataBaseSQLLite: Handle @138393696
+# 17.10.2021 ( 15:56 ) New DataBaseSQLLite: Handle @137476192
+# 17.10.2021 ( 15:57 ) New DataBaseSQLLite: Handle @135968864
+# 17.10.2021 ( 16:02 ) New DataBaseSQLLite: Handle @136558688
+# 17.10.2021 ( 19:09 ) New DataBaseSQLLite: Handle @148027488
+# 17.10.2021 ( 19:10 ) New DataBaseSQLLite: Handle @148748384
+# 17.10.2021 ( 19:10 ) New DataBaseSQLLite: Handle @145471584
+# 17.10.2021 ( 19:11 ) New DataBaseSQLLite: Handle @149796960
+# 17.10.2021 ( 19:11 ) New DataBaseSQLLite: Handle @146585696
+# 17.10.2021 ( 19:12 ) New DataBaseSQLLite: Handle @150321248
+# 17.10.2021 ( 22:08 ) New DataBaseSQLLite: Handle @140163168
+# 17.10.2021 ( 22:09 ) New DataBaseSQLLite: Handle @139573344
+# 17.10.2021 ( 22:10 ) New DataBaseSQLLite: Handle @141015136
+# 18.10.2021 ( 08:56 ) New DataBaseSQLLite: Handle @130922592
+# 18.10.2021 ( 12:47 ) New DataBaseSQLLite: Handle @141998176
+# 18.10.2021 ( 17:27 ) New DataBaseSQLLite: Handle @138983520
+# 18.10.2021 ( 17:32 ) New DataBaseSQLLite: Handle @137410656
+# 18.10.2021 ( 17:52 ) New DataBaseSQLLite: Handle @140556384
+# 18.10.2021 ( 17:52 ) New DataBaseSQLLite: Handle @138721376
+# 18.10.2021 ( 17:53 ) New DataBaseSQLLite: Handle @137214048
+# 18.10.2021 ( 17:53 ) New DataBaseSQLLite: Handle @139311200
+# 18.10.2021 ( 17:53 ) New DataBaseSQLLite: Handle @142194784
+# 18.10.2021 ( 17:53 ) New DataBaseSQLLite: Handle @138590304
+# 18.10.2021 ( 17:53 ) New DataBaseSQLLite: Handle @136231008
+# 18.10.2021 ( 19:57 ) New DataBaseSQLLite: Handle @138590304
+# 18.10.2021 ( 21:49 ) New DataBaseSQLLite: Handle @137869408
+# 18.10.2021 ( 22:57 ) New DataBaseSQLLite: Handle @130594912
+# 19.10.2021 ( 09:30 ) New DataBaseSQLLite: Handle @133019744
+# 19.10.2021 ( 09:31 ) New DataBaseSQLLite: Handle @136427616
+# 19.10.2021 ( 12:36 ) New DataBaseSQLLite: Handle @138786912
+# 19.10.2021 ( 16:51 ) New DataBaseSQLLite: Handle @136558688
+# 19.10.2021 ( 16:54 ) New DataBaseSQLLite: Handle @141408352
+# 19.10.2021 ( 16:55 ) New DataBaseSQLLite: Handle @135510112
+# 19.10.2021 ( 22:08 ) New DataBaseSQLLite: Handle @139049056
+# 20.10.2021 ( 08:57 ) New DataBaseSQLLite: Handle @145012832
+# 20.10.2021 ( 12:34 ) New DataBaseSQLLite: Handle @139769952
+# 20.10.2021 ( 19:15 ) New DataBaseSQLLite: Handle @130988128
+# 20.10.2021 ( 21:07 ) New DataBaseSQLLite: Handle @140818528
+# 21.10.2021 ( 08:57 ) New DataBaseSQLLite: Handle @132233312
+# 21.10.2021 ( 12:01 ) New DataBaseSQLLite: Handle @138721376
+# 21.10.2021 ( 19:52 ) New DataBaseSQLLite: Handle @140818528
+# 22.10.2021 ( 09:04 ) New DataBaseSQLLite: Handle @131643488
+# 22.10.2021 ( 12:01 ) New DataBaseSQLLite: Handle @140228704
+# 22.10.2021 ( 12:31 ) New DataBaseSQLLite: Handle @138655840
+# 22.10.2021 ( 15:35 ) New DataBaseSQLLite: Handle @137279584
+# 22.10.2021 ( 18:38 ) New DataBaseSQLLite: Handle @140097632
+# 23.10.2021 ( 09:31 ) New DataBaseSQLLite: Handle @133085280
+# 23.10.2021 ( 11:59 ) New DataBaseSQLLite: Handle @138983520
+# 24.10.2021 ( 09:08 ) New DataBaseSQLLite: Handle @65452128
+# 24.10.2021 ( 09:11 ) New DataBaseSQLLite: Handle @129611872
+# 24.10.2021 ( 12:12 ) New DataBaseSQLLite: Handle @132954208
+# 24.10.2021 ( 14:02 ) New DataBaseSQLLite: Handle @138655840
+# 24.10.2021 ( 14:02 ) New DataBaseSQLLite: Handle @137934944
+# 24.10.2021 ( 14:03 ) New DataBaseSQLLite: Handle @138917984
+# 24.10.2021 ( 14:03 ) New DataBaseSQLLite: Handle @135575648
+# 24.10.2021 ( 18:24 ) New DataBaseSQLLite: Handle @138262624
+# 25.10.2021 ( 09:12 ) New DataBaseSQLLite: Handle @137279584
+# 25.10.2021 ( 11:15 ) New DataBaseSQLLite: Handle @137803872
+# 25.10.2021 ( 18:53 ) New DataBaseSQLLite: Handle @63944800
+# 25.10.2021 ( 20:24 ) New DataBaseSQLLite: Handle @131643488
+# 26.10.2021 ( 09:18 ) New DataBaseSQLLite: Handle @140294240
+# 26.10.2021 ( 09:58 ) New DataBaseSQLLite: Handle @141015136
+# 26.10.2021 ( 12:17 ) New DataBaseSQLLite: Handle @141015136
+# 26.10.2021 ( 12:47 ) New DataBaseSQLLite: Handle @130332768
+# 26.10.2021 ( 12:47 ) New DataBaseSQLLite: Handle @129415264
+# 26.10.2021 ( 12:50 ) New DataBaseSQLLite: Handle @140490848
+# 26.10.2021 ( 18:59 ) New DataBaseSQLLite: Handle @137017440
+# 26.10.2021 ( 19:58 ) New DataBaseSQLLite: Handle @136755296
+# 27.10.2021 ( 09:12 ) New DataBaseSQLLite: Handle @136820832
+# 27.10.2021 ( 12:11 ) New DataBaseSQLLite: Handle @138917984
+# 27.10.2021 ( 12:12 ) New DataBaseSQLLite: Handle @137214048
+# 27.10.2021 ( 12:13 ) New DataBaseSQLLite: Handle @137017440
+# 27.10.2021 ( 12:14 ) New DataBaseSQLLite: Handle @136689760
+# 28.10.2021 ( 09:40 ) New DataBaseSQLLite: Handle @137279584
+# 28.10.2021 ( 10:36 ) New DataBaseSQLLite: Handle @136886368
+# 28.10.2021 ( 10:36 ) New DataBaseSQLLite: Handle @138459232
+# 28.10.2021 ( 10:42 ) New DataBaseSQLLite: Handle @138066016
+# 28.10.2021 ( 11:20 ) New DataBaseSQLLite: Handle @130267232
+# 28.10.2021 ( 11:22 ) New DataBaseSQLLite: Handle @135379040
+# 28.10.2021 ( 11:28 ) New DataBaseSQLLite: Handle @136427616
+# 28.10.2021 ( 16:10 ) New DataBaseSQLLite: Handle @136689760
+# 28.10.2021 ( 16:10 ) New DataBaseSQLLite: Handle @137017440
+# 28.10.2021 ( 16:12 ) New DataBaseSQLLite: Handle @139769952
+# 28.10.2021 ( 18:17 ) New DataBaseSQLLite: Handle @137148512
+# 28.10.2021 ( 18:58 ) New DataBaseSQLLite: Handle @137738336
+# 28.10.2021 ( 20:07 ) New DataBaseSQLLite: Handle @138000480
+# 29.10.2021 ( 09:21 ) New DataBaseSQLLite: Handle @130463840
+# 29.10.2021 ( 09:56 ) New DataBaseSQLLite: Handle @136427616
+# 29.10.2021 ( 11:51 ) New DataBaseSQLLite: Handle @129808480
+# 29.10.2021 ( 12:44 ) New DataBaseSQLLite: Handle @137017440
+# 29.10.2021 ( 18:54 ) New DataBaseSQLLite: Handle @131250272
+# 29.10.2021 ( 19:35 ) New DataBaseSQLLite: Handle @131774560
+# 29.10.2021 ( 19:36 ) New DataBaseSQLLite: Handle @137607264
+# 29.10.2021 ( 19:37 ) New DataBaseSQLLite: Handle @137017440
+# 29.10.2021 ( 19:37 ) New DataBaseSQLLite: Handle @131643488
+# 29.10.2021 ( 19:38 ) New DataBaseSQLLite: Handle @135510112
+# 29.10.2021 ( 19:39 ) New DataBaseSQLLite: Handle @136362080
+# 29.10.2021 ( 19:39 ) New DataBaseSQLLite: Handle @136034400
+# 29.10.2021 ( 19:41 ) New DataBaseSQLLite: Handle @131643488
+# 29.10.2021 ( 19:42 ) New DataBaseSQLLite: Handle @136624224
+# 29.10.2021 ( 19:43 ) New DataBaseSQLLite: Handle @137476192
+# 29.10.2021 ( 19:43 ) New DataBaseSQLLite: Handle @135444576
+# 29.10.2021 ( 19:46 ) New DataBaseSQLLite: Handle @135968864
+# 29.10.2021 ( 19:51 ) New DataBaseSQLLite: Handle @137476192
+# 30.10.2021 ( 12:38 ) New DataBaseSQLLite: Handle @132626528
+# 30.10.2021 ( 13:19 ) New DataBaseSQLLite: Handle @136427616
+# 30.10.2021 ( 13:19 ) New DataBaseSQLLite: Handle @137934944
+# 30.10.2021 ( 17:55 ) New DataBaseSQLLite: Handle @138393696
+# 30.10.2021 ( 17:56 ) New DataBaseSQLLite: Handle @138262624
+# 30.10.2021 ( 17:57 ) New DataBaseSQLLite: Handle @136034400
+# 30.10.2021 ( 17:58 ) New DataBaseSQLLite: Handle @136427616
+# 30.10.2021 ( 17:58 ) New DataBaseSQLLite: Handle @137476192
+# 30.10.2021 ( 17:58 ) New DataBaseSQLLite: Handle @136034400
+# 30.10.2021 ( 17:59 ) New DataBaseSQLLite: Handle @136165472
+# 30.10.2021 ( 17:59 ) New DataBaseSQLLite: Handle @136165472
+# 31.10.2021 ( 10:34 ) New DataBaseSQLLite: Handle @135575648
+# 31.10.2021 ( 12:07 ) New DataBaseSQLLite: Handle @136099936
+# 31.10.2021 ( 15:43 ) New DataBaseSQLLite: Handle @139311200
+# 31.10.2021 ( 15:44 ) New DataBaseSQLLite: Handle @139180128
+# 31.10.2021 ( 18:55 ) New DataBaseSQLLite: Handle @135510112
+# 31.10.2021 ( 19:00 ) New DataBaseSQLLite: Handle @131512416
+# 31.10.2021 ( 19:01 ) New DataBaseSQLLite: Handle @136099936
+# 01.11.2021 ( 09:22 ) New DataBaseSQLLite: Handle @129939552
+# 01.11.2021 ( 15:04 ) New DataBaseSQLLite: Handle @138524768
+# 02.11.2021 ( 09:40 ) New DataBaseSQLLite: Handle @128235616
+# 02.11.2021 ( 09:42 ) New DataBaseSQLLite: Handle @135379040
+# 02.11.2021 ( 09:42 ) New DataBaseSQLLite: Handle @137082976
+# 02.11.2021 ( 09:42 ) New DataBaseSQLLite: Handle @138000480
+# 02.11.2021 ( 11:55 ) New DataBaseSQLLite: Handle @137017440
+# 02.11.2021 ( 19:26 ) New DataBaseSQLLite: Handle @139049056
+# 02.11.2021 ( 22:14 ) New DataBaseSQLLite: Handle @129742944
+# 03.11.2021 ( 09:06 ) New DataBaseSQLLite: Handle @130398304
+# 03.11.2021 ( 16:27 ) New DataBaseSQLLite: Handle @137082976
+# 03.11.2021 ( 17:16 ) New DataBaseSQLLite: Handle @138197088
+# 03.11.2021 ( 17:18 ) New DataBaseSQLLite: Handle @137082976
+# 03.11.2021 ( 18:55 ) New DataBaseSQLLite: Handle @130725984
+# 03.11.2021 ( 20:36 ) New DataBaseSQLLite: Handle @62961760
+# 04.11.2021 ( 09:06 ) New DataBaseSQLLite: Handle @135051360
+# 04.11.2021 ( 12:34 ) New DataBaseSQLLite: Handle @138721376
+# 04.11.2021 ( 18:48 ) New DataBaseSQLLite: Handle @137082976
+# 05.11.2021 ( 09:10 ) New DataBaseSQLLite: Handle @136624224
+# 05.11.2021 ( 11:55 ) New DataBaseSQLLite: Handle @136755296
+# 06.11.2021 ( 12:01 ) New DataBaseSQLLite: Handle @63748192
+# 07.11.2021 ( 10:41 ) New DataBaseSQLLite: Handle @128825440
+# 07.11.2021 ( 12:16 ) New DataBaseSQLLite: Handle @137738336
+# 08.11.2021 ( 09:12 ) New DataBaseSQLLite: Handle @137017440
+# 08.11.2021 ( 11:17 ) New DataBaseSQLLite: Handle @137148512
+# 08.11.2021 ( 12:07 ) New DataBaseSQLLite: Handle @137541728
+# 08.11.2021 ( 18:50 ) New DataBaseSQLLite: Handle @138524768
+# 09.11.2021 ( 09:24 ) New DataBaseSQLLite: Handle @136624224
+# 09.11.2021 ( 12:04 ) New DataBaseSQLLite: Handle @137345120
+# 09.11.2021 ( 15:43 ) New DataBaseSQLLite: Handle @138524768
+# 09.11.2021 ( 15:43 ) New DataBaseSQLLite: Handle @138000480
+# 09.11.2021 ( 15:44 ) New DataBaseSQLLite: Handle @137148512
+# 09.11.2021 ( 18:24 ) New DataBaseSQLLite: Handle @138393696
+# 10.11.2021 ( 09:10 ) New DataBaseSQLLite: Handle @125941856
+# 10.11.2021 ( 12:14 ) New DataBaseSQLLite: Handle @137476192
+# 10.11.2021 ( 15:33 ) New DataBaseSQLLite: Handle @135968864
+# 10.11.2021 ( 15:35 ) New DataBaseSQLLite: Handle @135837792
+# 10.11.2021 ( 15:41 ) New DataBaseSQLLite: Handle @137869408
+# 10.11.2021 ( 17:49 ) New DataBaseSQLLite: Handle @137803872
+# 10.11.2021 ( 17:53 ) New DataBaseSQLLite: Handle @129677408
+# 10.11.2021 ( 20:20 ) New DataBaseSQLLite: Handle @138459232
+# 11.11.2021 ( 08:59 ) New DataBaseSQLLite: Handle @129808480
+# 11.11.2021 ( 15:57 ) New DataBaseSQLLite: Handle @138524768
+# 11.11.2021 ( 21:47 ) New DataBaseSQLLite: Handle @134199392
+# 12.11.2021 ( 09:23 ) New DataBaseSQLLite: Handle @140163168
+# 12.11.2021 ( 12:34 ) New DataBaseSQLLite: Handle @141670496
+# 12.11.2021 ( 19:00 ) New DataBaseSQLLite: Handle @138328160
+# 12.11.2021 ( 19:02 ) New DataBaseSQLLite: Handle @137672800
+# 13.11.2021 ( 10:53 ) New DataBaseSQLLite: Handle @138917984
+# 13.11.2021 ( 21:45 ) New DataBaseSQLLite: Handle @137279584
+# 14.11.2021 ( 12:00 ) New DataBaseSQLLite: Handle @128366688
+# 14.11.2021 ( 13:13 ) New DataBaseSQLLite: Handle @136034400
+# 14.11.2021 ( 13:41 ) New DataBaseSQLLite: Handle @136951904
+# 14.11.2021 ( 13:41 ) New DataBaseSQLLite: Handle @138721376
+# 14.11.2021 ( 13:42 ) New DataBaseSQLLite: Handle @137017440
+# 14.11.2021 ( 13:42 ) New DataBaseSQLLite: Handle @137607264
+# 14.11.2021 ( 13:42 ) New DataBaseSQLLite: Handle @136624224
+# 14.11.2021 ( 13:43 ) New DataBaseSQLLite: Handle @135444576
+# 14.11.2021 ( 13:43 ) New DataBaseSQLLite: Handle @136493152
+# 14.11.2021 ( 13:43 ) New DataBaseSQLLite: Handle @135444576
+# 14.11.2021 ( 13:56 ) New DataBaseSQLLite: Handle @136951904
+# 14.11.2021 ( 13:58 ) New DataBaseSQLLite: Handle @137082976
+# 14.11.2021 ( 13:59 ) New DataBaseSQLLite: Handle @137017440
+# 14.11.2021 ( 16:25 ) New DataBaseSQLLite: Handle @137148512
+# 14.11.2021 ( 16:25 ) New DataBaseSQLLite: Handle @137214048
+# 15.11.2021 ( 09:16 ) New DataBaseSQLLite: Handle @129480800
+# 15.11.2021 ( 12:10 ) New DataBaseSQLLite: Handle @136558688
+# 15.11.2021 ( 18:03 ) New DataBaseSQLLite: Handle @136951904
+# 16.11.2021 ( 09:02 ) New DataBaseSQLLite: Handle @133478496
+# 16.11.2021 ( 12:04 ) New DataBaseSQLLite: Handle @137869408
+# 16.11.2021 ( 20:24 ) New DataBaseSQLLite: Handle @137082976
+# 17.11.2021 ( 09:11 ) New DataBaseSQLLite: Handle @139180128
+# 17.11.2021 ( 12:10 ) New DataBaseSQLLite: Handle @138393696
+# 17.11.2021 ( 17:31 ) New DataBaseSQLLite: Handle @135641184
+# 17.11.2021 ( 17:41 ) New DataBaseSQLLite: Handle @137214048
+# 17.11.2021 ( 17:48 ) New DataBaseSQLLite: Handle @138721376
+# 17.11.2021 ( 17:49 ) New DataBaseSQLLite: Handle @129480800
+# 17.11.2021 ( 17:52 ) New DataBaseSQLLite: Handle @137607264
+# 17.11.2021 ( 18:01 ) New DataBaseSQLLite: Handle @135837792
+# 17.11.2021 ( 18:01 ) New DataBaseSQLLite: Handle @137214048
+# 17.11.2021 ( 18:01 ) New DataBaseSQLLite: Handle @137082976
+# 17.11.2021 ( 18:02 ) New DataBaseSQLLite: Handle @137607264
+# 17.11.2021 ( 18:49 ) New DataBaseSQLLite: Handle @136493152
+# 18.11.2021 ( 09:02 ) New DataBaseSQLLite: Handle @136624224
+# 18.11.2021 ( 12:04 ) New DataBaseSQLLite: Handle @135837792
+# 19.11.2021 ( 09:14 ) New DataBaseSQLLite: Handle @137869408
+# 19.11.2021 ( 12:02 ) New DataBaseSQLLite: Handle @136099936
+# 20.11.2021 ( 11:48 ) New DataBaseSQLLite: Handle @135837792
+# 20.11.2021 ( 11:49 ) New DataBaseSQLLite: Handle @137672800
+# 20.11.2021 ( 18:51 ) New DataBaseSQLLite: Handle @140097632
+# 20.11.2021 ( 20:06 ) New DataBaseSQLLite: Handle @138328160
+# 20.11.2021 ( 20:26 ) New DataBaseSQLLite: Handle @137476192
+# 20.11.2021 ( 20:52 ) New DataBaseSQLLite: Handle @137017440
+# 21.11.2021 ( 09:23 ) New DataBaseSQLLite: Handle @129611872
+# 21.11.2021 ( 13:29 ) New DataBaseSQLLite: Handle @138590304
+# 22.11.2021 ( 09:03 ) New DataBaseSQLLite: Handle @139311200
+# 22.11.2021 ( 12:14 ) New DataBaseSQLLite: Handle @138786912
+# 22.11.2021 ( 16:34 ) New DataBaseSQLLite: Handle @138917984
+# 23.11.2021 ( 09:07 ) New DataBaseSQLLite: Handle @133085280
+# 23.11.2021 ( 17:30 ) New DataBaseSQLLite: Handle @137082976
+# 23.11.2021 ( 17:30 ) New DataBaseSQLLite: Handle @138590304
+# 23.11.2021 ( 17:31 ) New DataBaseSQLLite: Handle @137541728
+# 23.11.2021 ( 17:31 ) New DataBaseSQLLite: Handle @136296544
+# 23.11.2021 ( 17:31 ) New DataBaseSQLLite: Handle @136493152
+# 23.11.2021 ( 17:32 ) New DataBaseSQLLite: Handle @136427616
+# 23.11.2021 ( 17:33 ) New DataBaseSQLLite: Handle @138328160
+# 23.11.2021 ( 17:33 ) New DataBaseSQLLite: Handle @137410656
+# 23.11.2021 ( 17:33 ) New DataBaseSQLLite: Handle @137738336
+# 23.11.2021 ( 18:34 ) New DataBaseSQLLite: Handle @136755296
+# 24.11.2021 ( 09:15 ) New DataBaseSQLLite: Handle @137541728
+# 24.11.2021 ( 12:20 ) New DataBaseSQLLite: Handle @137017440
+# 24.11.2021 ( 16:33 ) New DataBaseSQLLite: Handle @140032096
+# 24.11.2021 ( 16:34 ) New DataBaseSQLLite: Handle @136820832
+# 24.11.2021 ( 16:34 ) New DataBaseSQLLite: Handle @139442272
+# 24.11.2021 ( 19:07 ) New DataBaseSQLLite: Handle @138197088
+# 24.11.2021 ( 19:11 ) New DataBaseSQLLite: Handle @133412960
+# 25.11.2021 ( 09:06 ) New DataBaseSQLLite: Handle @139507808
+# 25.11.2021 ( 12:04 ) New DataBaseSQLLite: Handle @137017440
+# 25.11.2021 ( 15:36 ) New DataBaseSQLLite: Handle @136427616
+# 25.11.2021 ( 20:40 ) New DataBaseSQLLite: Handle @138852448
+# 26.11.2021 ( 09:01 ) New DataBaseSQLLite: Handle @130398304
